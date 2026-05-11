@@ -1,11 +1,12 @@
-Subject: Re: Missed international inquiries
+Subject: Re: missed calls
 
 Hi there,
 
-Quick follow-up on my note about after-hours calls from international buyers.
+Quick follow-up on my note about missed calls and after-hours leads.
 
-Dubai's luxury market never sleeps — calls come in at 2 AM from London, 6 AM from Mumbai. Are you capturing them?
+Are you open to a 5-minute call this week? I can show you exactly how much revenue you're leaving on the table.
 
-Reply DEMO and I'll send a 2-minute video of Layan handling a viewing booking in real time.
+Book a slot: https://calendly.com/sahil/demo
 
+Best,
 Sahil

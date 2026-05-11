@@ -1,9 +1,9 @@
 # Proposal for EliteLiving Dubai
 
-**Service:** Dubai Voice Agent — Trilingual AI Concierge
-**Setup:** AED 5,000 (~$5,000 USD)
-**Monthly:** AED 7,400 (~$2,000 USD)
+**Service:** AI Receptionist
+**Setup:** $1,500
+**Monthly:** $1,200
 
-Guarantee: 5 viewings in 30 days or month 2 free.
+Guarantee: 3+ additional jobs in 30 days or month 2 free.
 
 — Sahil

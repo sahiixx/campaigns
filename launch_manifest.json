@@ -1,0 +1,93 @@
+{
+  "launched_at": "2026-05-11T03:35:54.396743",
+  "campaigns": [
+    {
+      "name": "ghost-systems",
+      "launched_at": "2026-05-11T03:35:54.385941",
+      "leads": 6,
+      "emails": 74,
+      "followups": 222,
+      "quotes": 70,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "plumbing-ghost",
+      "launched_at": "2026-05-11T03:35:54.387751",
+      "leads": 11,
+      "emails": 180,
+      "followups": 222,
+      "quotes": 70,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "roofing-ghost",
+      "launched_at": "2026-05-11T03:35:54.389328",
+      "leads": 11,
+      "emails": 169,
+      "followups": 222,
+      "quotes": 70,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "electrical-ghost",
+      "launched_at": "2026-05-11T03:35:54.390820",
+      "leads": 11,
+      "emails": 168,
+      "followups": 222,
+      "quotes": 70,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "locksmith-ghost",
+      "launched_at": "2026-05-11T03:35:54.392192",
+      "leads": 11,
+      "emails": 173,
+      "followups": 222,
+      "quotes": 70,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "towing-ghost",
+      "launched_at": "2026-05-11T03:35:54.393489",
+      "leads": 11,
+      "emails": 168,
+      "followups": 222,
+      "quotes": 70,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "dubai-voice",
+      "launched_at": "2026-05-11T03:35:54.395025",
+      "leads": 4,
+      "emails": 20,
+      "followups": 60,
+      "quotes": 20,
+      "backend": true,
+      "vapi": true,
+      "contract": true
+    },
+    {
+      "name": "micro-saas",
+      "launched_at": "2026-05-11T03:35:54.395874",
+      "leads": 5,
+      "emails": 23,
+      "followups": 69,
+      "quotes": 0,
+      "backend": true,
+      "vapi": false,
+      "contract": true
+    }
+  ]
+}

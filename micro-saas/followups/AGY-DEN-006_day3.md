@@ -1,11 +1,12 @@
-Subject: Re: Review reply automation
+Subject: Re: missed calls
 
 Hi there,
 
-Quick follow-up — I sent a note about cutting review response time from hours to seconds.
+Quick follow-up on my note about missed calls and after-hours leads.
 
-One agency using ReviewReply saved 12 hours/week and landed 2 new clients because their response rate jumped to 100%.
+Are you open to a 5-minute call this week? I can show you exactly how much revenue you're leaving on the table.
 
-Reply DEMO for a 2-min Loom.
+Book a slot: https://calendly.com/sahil/demo
 
+Best,
 Sahil

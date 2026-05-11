@@ -50,7 +50,7 @@
         10
       ]
     },
-    "emails": 173,
+    "emails": 29,
     "leads": 110
   },
   {
@@ -104,7 +104,7 @@
         10
       ]
     },
-    "emails": 168,
+    "emails": 24,
     "leads": 110
   },
   {
@@ -158,7 +158,7 @@
         10
       ]
     },
-    "emails": 168,
+    "emails": 24,
     "leads": 110
   },
   {
@@ -212,7 +212,7 @@
         10
       ]
     },
-    "emails": 169,
+    "emails": 25,
     "leads": 110
   },
   {
@@ -266,7 +266,7 @@
         10
       ]
     },
-    "emails": 180,
+    "emails": 36,
     "leads": 110
   },
   {
@@ -380,7 +380,7 @@
   {
     "name": "micro-saas",
     "dir": "micro-saas",
-    "score": 95,
+    "score": 105,
     "max": 100,
     "checks": {
       "README": [
@@ -412,8 +412,8 @@
         10
       ],
       "Quotes": [
-        "\u274c",
-        0
+        "\u2705",
+        10
       ],
       "Follow-ups": [
         "\u2705",
@@ -434,7 +434,7 @@
   {
     "name": "gumroad-tracker",
     "dir": "gumroad-tracker",
-    "score": 15,
+    "score": 45,
     "max": 100,
     "checks": {
       "README": [
@@ -442,8 +442,8 @@
         10
       ],
       "Backend": [
-        "\u274c",
-        0
+        "\u2705",
+        20
       ],
       "Vapi Config": [
         "\u274c",
@@ -478,8 +478,8 @@
         5
       ],
       "Dockerfile": [
-        "\u274c",
-        0
+        "\u2705",
+        10
       ]
     },
     "emails": 0,

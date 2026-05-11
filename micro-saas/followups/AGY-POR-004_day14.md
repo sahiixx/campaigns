@@ -1,9 +1,13 @@
-Subject: Free tool: Review response template library
+Subject: Portland Business + case study
 
 there,
 
-Final value-add: I built a free Notion library of 50 review response templates for agencies.
+Final piece of value before I stop reaching out:
 
-Reply TEMPLATES and I'll send the link. No pitch.
+I wrote a 1-page case study showing how a company like yours added $14,600/mo in recovered leads using an AI receptionist.
+
+Reply "CASE STUDY" and I'll send it over.
+
+If not, no worries — I won't email again.
 
 Sahil

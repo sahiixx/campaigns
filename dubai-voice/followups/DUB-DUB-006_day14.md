@@ -1,11 +1,13 @@
-Subject: Dubai market report + your competitor analysis
+Subject: Dubai Business + case study
 
 there,
 
-Final value-add: I compiled a 1-page report showing which Dubai agencies are using AI concierge and which aren't.
+Final piece of value before I stop reaching out:
 
-Reply REPORT and I'll send it.
+I wrote a 1-page case study showing how a company like yours added $14,600/mo in recovered leads using an AI receptionist.
 
-No pitch attached.
+Reply "CASE STUDY" and I'll send it over.
+
+If not, no worries — I won't email again.
 
 Sahil

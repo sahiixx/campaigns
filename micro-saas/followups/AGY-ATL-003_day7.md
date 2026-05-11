@@ -1,11 +1,11 @@
-Subject: Last try — Your Agency
+Subject: Last try — Atlanta Business
 
 there,
 
-Last email on this.
+I know you're busy. This is my last email on this.
 
-Your competitor Atlanta Digital just signed up for ReviewReply Growth. They're white-labeling responses for 8 clients.
+One of your competitors just signed up. They're now capturing 100% of after-hours calls while you're still sending them to voicemail.
 
-If you want to see the demo, reply YES. Otherwise, I'll stop reaching out.
+If you want to see how it works, reply with "DEMO" and I'll send a 2-minute Loom video.
 
 Sahil

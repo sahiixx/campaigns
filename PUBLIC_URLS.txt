@@ -1,0 +1,16 @@
+CAMPAIGN PUBLIC URLS — Generated 2026-05-11
+==========================================
+
+War Room Dashboard   : https://acne-nickname-bernard-reported.trycloudflare.com
+ReviewReply Landing  : https://beatles-digest-modular-charleston.trycloudflare.com
+Ghost Systems API    : https://walks-cooking-agenda-shaved.trycloudflare.com
+
+Local Endpoints (still active):
+  Dubai API          : http://localhost:8002
+  Gumroad API        : http://localhost:8003
+  Telegram Bot       : http://localhost:8004
+  CRM API            : http://localhost:8005
+  API Gateway        : http://localhost:8006
+
+Note: Cloudflare quick tunnels are temporary. For production,
+use named tunnels with a custom domain.

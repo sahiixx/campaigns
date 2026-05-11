@@ -8,13 +8,13 @@ case "$CMD" in
     echo "========================================"
     echo "  CAMPAIGN SERVICES STATUS"
     echo "========================================"
-    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot; do
+    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot gateway monitor; do
       state=$(systemctl --user is-active $svc 2>/dev/null || echo "inactive")
       color="\033[32m" && [ "$state" != "active" ] && color="\033[31m"
       printf "  ${color}%-24s\033[0m %s\n" "$svc:" "$state"
     done
     echo ""
-    for port in 8000 8002 8003 8004 8005 3000 8080; do
+    for port in 8000 8002 8003 8004 8005 8006 3000 8080; do
       code=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:$port/ 2>/dev/null || echo "000")
       color="\033[32m" && [ "$code" != "200" ] && color="\033[31m"
       printf "  ${color}Port %-5s\033[0m HTTP %s\n" "$port:" "$code"
@@ -23,14 +23,14 @@ case "$CMD" in
   start)
     echo "Starting all campaign services..."
     systemctl --user daemon-reload
-    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot; do
+    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot gateway monitor; do
       systemctl --user start $svc 2>/dev/null && echo "  $svc started" || echo "  $svc failed"
     done
     echo "Done."
     ;;
   stop)
     echo "Stopping all campaign services..."
-    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot; do
+    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot gateway monitor; do
       systemctl --user stop $svc 2>/dev/null && echo "  $svc stopped" || echo "  $svc not running"
     done
     echo "Done."
