@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,pain_score,has_24_7_call_center,has_multilingual_support,has_whatsapp_integration,city,industry
+DUB-DUB-001,EliteLiving Dubai,Rashid,+971-50-7549296,116 Dubai Street,2,False,False,False,Dubai,real_estate
+DUB-DUB-002,PalmResidences Dubai,Omar,+971-50-4629932,654 Dubai Street,3,False,False,False,Dubai,real_estate
+DUB-DUB-003,MarinaViews Dubai,Tariq,+971-50-5805585,569 Dubai Street,0,True,True,True,Dubai,real_estate
+DUB-DUB-004,EliteLiving Dubai,Hassan,+971-50-6108566,196 Dubai Street,2,False,False,False,Dubai,real_estate
+DUB-DUB-005,RoyalRealty Dubai,Khalid,+971-50-3583482,399 Dubai Street,0,True,True,True,Dubai,real_estate
+DUB-DUB-006,MarinaViews Dubai,Tariq,+971-50-8456828,988 Dubai Street,2,False,False,False,Dubai,real_estate
+DUB-DUB-007,RoyalRealty Dubai,Faisal,+971-50-5761322,546 Dubai Street,0,True,True,True,Dubai,real_estate
+DUB-DUB-008,EliteLiving Dubai,Samir,+971-50-1014979,235 Dubai Street,3,False,False,False,Dubai,real_estate
+DUB-DUB-009,PalmResidences Dubai,Rashid,+971-50-2688360,447 Dubai Street,0,True,True,True,Dubai,real_estate
+DUB-DUB-010,MarinaViews Dubai,Rashid,+971-50-5165572,690 Dubai Street,3,False,False,False,Dubai,real_estate

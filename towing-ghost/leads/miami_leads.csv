@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+TOW-MIA-001,RapidTow Miami,Earl,(555) 467-6689,3302 Miami St,4.3,59,2,True,False,False,Miami,towing
+TOW-MIA-002,EliteRecovery Miami,Carl,(555) 756-8839,6001 Miami St,4.8,195,1,False,True,False,Miami,towing
+TOW-MIA-003,AutoHaul Miami,Stan,(555) 638-3916,8455 Miami St,3.5,165,0,False,True,True,Miami,towing
+TOW-MIA-004,RapidTow Miami,Carl,(555) 102-8815,548 Miami St,4.2,83,2,True,False,False,Miami,towing
+TOW-MIA-005,FastTow Miami,Earl,(555) 457-9816,7194 Miami St,3.1,15,2,True,False,False,Miami,towing
+TOW-MIA-006,AutoHaul Miami,Walt,(555) 442-5667,3202 Miami St,3.5,162,1,False,True,False,Miami,towing
+TOW-MIA-007,24/7 Tow Miami,Bill,(555) 453-3002,4350 Miami St,4.1,32,2,True,False,False,Miami,towing
+TOW-MIA-008,CityTowing Miami,Walt,(555) 784-8517,2485 Miami St,4.5,35,2,True,False,False,Miami,towing
+TOW-MIA-009,FastTow Miami,Dean,(555) 790-6632,2623 Miami St,3.7,62,3,True,False,False,Miami,towing
+TOW-MIA-010,EliteRecovery Miami,Phil,(555) 568-4148,8105 Miami St,4.0,33,3,True,False,False,Miami,towing

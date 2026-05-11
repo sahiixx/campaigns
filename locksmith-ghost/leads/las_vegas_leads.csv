@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+LOC-LAS-001,PrimeLock Las Vegas,Max,(555) 986-1191,4884 Las Vegas St,3.9,55,0,False,True,True,Las Vegas,locksmith
+LOC-LAS-002,LockPro Las Vegas,Vic,(555) 637-2003,1256 Las Vegas St,5.0,186,1,False,True,False,Las Vegas,locksmith
+LOC-LAS-003,KeyMaster Las Vegas,Max,(555) 476-3014,5177 Las Vegas St,3.5,36,3,True,False,False,Las Vegas,locksmith
+LOC-LAS-004,SecureEntry Las Vegas,Lou,(555) 293-7908,3542 Las Vegas St,3.5,45,3,True,False,False,Las Vegas,locksmith
+LOC-LAS-005,KeyMaster Las Vegas,Lou,(555) 180-7898,8077 Las Vegas St,3.9,37,0,False,True,True,Las Vegas,locksmith
+LOC-LAS-006,AccessNow Las Vegas,Ben,(555) 748-9538,1142 Las Vegas St,4.7,125,0,False,True,True,Las Vegas,locksmith
+LOC-LAS-007,SecureEntry Las Vegas,Al,(555) 553-8196,6204 Las Vegas St,4.9,100,2,True,False,False,Las Vegas,locksmith
+LOC-LAS-008,AccessNow Las Vegas,Vic,(555) 112-4122,541 Las Vegas St,4.7,80,2,True,False,False,Las Vegas,locksmith
+LOC-LAS-009,SafeGuard Las Vegas,Ben,(555) 122-4593,9534 Las Vegas St,4.9,76,1,False,True,False,Las Vegas,locksmith
+LOC-LAS-010,AccessNow Las Vegas,Lou,(555) 404-6857,5715 Las Vegas St,3.7,119,1,False,True,False,Las Vegas,locksmith

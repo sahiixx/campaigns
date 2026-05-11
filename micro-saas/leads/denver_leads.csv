@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,pain_score,manages_gbp_count,has_ai_response_tool,city,industry
+AGY-DEN-001,Synup Denver,Amanda,(555) 201-9363,0,5,True,Denver,digital_marketing_agency
+AGY-DEN-002,BirdEye Denver,Emily,(555) 823-9064,2,17,False,Denver,digital_marketing_agency
+AGY-DEN-003,BirdEye Denver,Amanda,(555) 418-4994,2,15,False,Denver,digital_marketing_agency
+AGY-DEN-004,Grade.us Denver,Jessica,(555) 667-5366,1,4,False,Denver,digital_marketing_agency
+AGY-DEN-005,BrightLocal Denver,Sarah,(555) 166-3168,1,10,False,Denver,digital_marketing_agency
+AGY-DEN-006,Vendasta Denver,Sarah,(555) 782-9154,2,9,False,Denver,digital_marketing_agency
+AGY-DEN-007,Vendasta Denver,Sarah,(555) 297-6614,0,8,True,Denver,digital_marketing_agency
+AGY-DEN-008,Synup Denver,Ashley,(555) 263-1722,2,30,False,Denver,digital_marketing_agency
+AGY-DEN-009,Whitespark Denver,Rachel,(555) 439-3574,3,8,False,Denver,digital_marketing_agency
+AGY-DEN-010,Whitespark Denver,Rachel,(555) 389-2023,1,8,False,Denver,digital_marketing_agency

@@ -1,0 +1,14 @@
+[Unit]
+Description=Campaign Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/sahiix/campaigns
+ExecStart=/home/sahiix/workspace/sovereign_swarm_enhanced/venv/bin/uvicorn telegram_bot:app --host 0.0.0.0 --port 8004
+Restart=on-failure
+RestartSec=5
+Environment=TELEGRAM_BOT_TOKEN=%i
+
+[Install]
+WantedBy=default.target

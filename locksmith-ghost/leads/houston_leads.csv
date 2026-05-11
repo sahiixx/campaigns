@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+LOC-HOU-001,KeyMaster Houston,Ben,(555) 145-2164,7060 Houston St,4.3,83,3,True,False,False,Houston,locksmith
+LOC-HOU-002,AccessNow Houston,Vic,(555) 911-9716,1110 Houston St,3.0,162,1,False,True,False,Houston,locksmith
+LOC-HOU-003,SafeGuard Houston,Ben,(555) 758-5438,2857 Houston St,4.0,131,3,True,False,False,Houston,locksmith
+LOC-HOU-004,SwiftKey Houston,Tony,(555) 201-4179,2288 Houston St,4.3,77,3,True,False,False,Houston,locksmith
+LOC-HOU-005,SafeGuard Houston,Al,(555) 622-9204,6900 Houston St,4.7,17,0,False,True,True,Houston,locksmith
+LOC-HOU-006,SwiftKey Houston,Max,(555) 695-3476,9610 Houston St,4.3,110,0,False,True,True,Houston,locksmith
+LOC-HOU-007,LockPro Houston,Leo,(555) 815-7910,250 Houston St,4.7,154,1,False,True,False,Houston,locksmith
+LOC-HOU-008,SecureEntry Houston,Vic,(555) 203-1443,1696 Houston St,3.9,85,3,True,False,False,Houston,locksmith
+LOC-HOU-009,SafeGuard Houston,Ben,(555) 963-3260,3398 Houston St,3.1,156,2,True,False,False,Houston,locksmith
+LOC-HOU-010,SecureEntry Houston,Leo,(555) 180-2034,9093 Houston St,4.1,33,2,True,False,False,Houston,locksmith

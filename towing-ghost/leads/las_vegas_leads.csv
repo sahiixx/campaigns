@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+TOW-LAS-001,RapidTow Las Vegas,Earl,(555) 617-6248,3239 Las Vegas St,3.8,100,2,True,False,False,Las Vegas,towing
+TOW-LAS-002,CityTowing Las Vegas,Carl,(555) 784-3699,8746 Las Vegas St,4.2,62,3,True,False,False,Las Vegas,towing
+TOW-LAS-003,EliteRecovery Las Vegas,Dean,(555) 176-6351,6468 Las Vegas St,3.5,41,0,False,True,True,Las Vegas,towing
+TOW-LAS-004,CityTowing Las Vegas,Bill,(555) 107-8822,9121 Las Vegas St,3.7,177,1,False,True,False,Las Vegas,towing
+TOW-LAS-005,EliteRecovery Las Vegas,Dean,(555) 900-2827,7818 Las Vegas St,3.2,154,0,False,True,True,Las Vegas,towing
+TOW-LAS-006,EliteRecovery Las Vegas,Stan,(555) 635-1007,1742 Las Vegas St,4.4,15,1,False,True,False,Las Vegas,towing
+TOW-LAS-007,CityTowing Las Vegas,Phil,(555) 354-5987,9665 Las Vegas St,4.2,147,0,False,True,True,Las Vegas,towing
+TOW-LAS-008,24/7 Tow Las Vegas,Stan,(555) 700-3493,5517 Las Vegas St,4.9,91,3,True,False,False,Las Vegas,towing
+TOW-LAS-009,EliteRecovery Las Vegas,Carl,(555) 715-5084,4714 Las Vegas St,3.2,187,1,False,True,False,Las Vegas,towing
+TOW-LAS-010,RapidTow Las Vegas,Earl,(555) 825-7182,7873 Las Vegas St,3.6,46,1,False,True,False,Las Vegas,towing

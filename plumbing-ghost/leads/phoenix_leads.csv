@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+PLU-PHO-001,AquaFix Phoenix,Tom,(555) 288-5738,7120 Phoenix St,4.2,138,0,False,True,True,Phoenix,plumbing
+PLU-PHO-002,HydroFlow Phoenix,Alex,(555) 977-4712,6302 Phoenix St,3.7,23,3,True,False,False,Phoenix,plumbing
+PLU-PHO-003,Prime Plumbing Phoenix,Alex,(555) 325-8474,6420 Phoenix St,5.0,173,1,False,True,False,Phoenix,plumbing
+PLU-PHO-004,BlueLine Phoenix,Mike,(555) 403-6011,4227 Phoenix St,4.7,195,3,True,False,False,Phoenix,plumbing
+PLU-PHO-005,DrainMasters Phoenix,Alex,(555) 592-3318,9992 Phoenix St,4.6,164,2,True,False,False,Phoenix,plumbing
+PLU-PHO-006,Prime Plumbing Phoenix,Dave,(555) 542-2314,8589 Phoenix St,3.3,159,0,False,True,True,Phoenix,plumbing
+PLU-PHO-007,DrainMasters Phoenix,Alex,(555) 847-2029,6833 Phoenix St,3.8,58,3,True,False,False,Phoenix,plumbing
+PLU-PHO-008,FlowRight Phoenix,Dave,(555) 398-5062,9098 Phoenix St,4.7,149,0,False,True,True,Phoenix,plumbing
+PLU-PHO-009,AquaFix Phoenix,Tom,(555) 917-8571,7160 Phoenix St,3.1,51,1,False,True,False,Phoenix,plumbing
+PLU-PHO-010,AquaFix Phoenix,Tom,(555) 768-5879,1619 Phoenix St,3.6,17,1,False,True,False,Phoenix,plumbing

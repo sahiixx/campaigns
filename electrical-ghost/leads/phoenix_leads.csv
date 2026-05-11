@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ELE-PHO-001,SparkLine Phoenix,Joe,(555) 654-6375,3058 Phoenix St,3.2,12,1,False,True,False,Phoenix,electrical
+ELE-PHO-002,BrightWire Phoenix,Andy,(555) 400-7775,5063 Phoenix St,3.3,192,1,False,True,False,Phoenix,electrical
+ELE-PHO-003,SparkLine Phoenix,Kevin,(555) 688-2728,6000 Phoenix St,5.0,152,0,False,True,True,Phoenix,electrical
+ELE-PHO-004,VoltTech Phoenix,Tim,(555) 107-1127,1789 Phoenix St,4.9,31,3,True,False,False,Phoenix,electrical
+ELE-PHO-005,AmpFlow Phoenix,Brian,(555) 167-5402,2561 Phoenix St,3.0,124,0,False,True,True,Phoenix,electrical
+ELE-PHO-006,LiveWire Phoenix,Mark,(555) 397-6756,3093 Phoenix St,3.3,81,2,True,False,False,Phoenix,electrical
+ELE-PHO-007,AmpFlow Phoenix,Mark,(555) 978-4946,9303 Phoenix St,4.5,171,1,False,True,False,Phoenix,electrical
+ELE-PHO-008,LiveWire Phoenix,Scott,(555) 782-2949,2419 Phoenix St,3.2,10,3,True,False,False,Phoenix,electrical
+ELE-PHO-009,SparkLine Phoenix,Kevin,(555) 638-8790,7747 Phoenix St,4.7,80,1,False,True,False,Phoenix,electrical
+ELE-PHO-010,SparkLine Phoenix,Greg,(555) 803-7283,1233 Phoenix St,4.9,177,2,True,False,False,Phoenix,electrical

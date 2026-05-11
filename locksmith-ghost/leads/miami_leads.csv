@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+LOC-MIA-001,AccessNow Miami,Tony,(555) 942-9181,4771 Miami St,4.8,140,2,True,False,False,Miami,locksmith
+LOC-MIA-002,SecureEntry Miami,Vic,(555) 667-2420,1719 Miami St,4.0,142,1,False,True,False,Miami,locksmith
+LOC-MIA-003,SafeGuard Miami,Lou,(555) 420-5426,6696 Miami St,4.9,19,3,True,False,False,Miami,locksmith
+LOC-MIA-004,SecureEntry Miami,Max,(555) 892-5701,815 Miami St,4.8,34,2,True,False,False,Miami,locksmith
+LOC-MIA-005,KeyMaster Miami,Ben,(555) 328-3687,2596 Miami St,4.5,187,2,True,False,False,Miami,locksmith
+LOC-MIA-006,SecureEntry Miami,Tony,(555) 578-9647,3004 Miami St,3.9,3,1,False,True,False,Miami,locksmith
+LOC-MIA-007,SwiftKey Miami,Vic,(555) 589-2462,8452 Miami St,3.7,102,2,True,False,False,Miami,locksmith
+LOC-MIA-008,KeyMaster Miami,Leo,(555) 674-9932,5985 Miami St,3.5,69,0,False,True,True,Miami,locksmith
+LOC-MIA-009,PrimeLock Miami,Tony,(555) 698-8573,6537 Miami St,4.5,47,0,False,True,True,Miami,locksmith
+LOC-MIA-010,PrimeLock Miami,Vic,(555) 200-3085,3061 Miami St,3.4,105,2,True,False,False,Miami,locksmith

@@ -1,0 +1,488 @@
+[
+  {
+    "name": "locksmith-ghost",
+    "dir": "locksmith-ghost",
+    "score": 120,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 173,
+    "leads": 110
+  },
+  {
+    "name": "towing-ghost",
+    "dir": "towing-ghost",
+    "score": 120,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 168,
+    "leads": 110
+  },
+  {
+    "name": "electrical-ghost",
+    "dir": "electrical-ghost",
+    "score": 120,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 168,
+    "leads": 110
+  },
+  {
+    "name": "roofing-ghost",
+    "dir": "roofing-ghost",
+    "score": 120,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 169,
+    "leads": 110
+  },
+  {
+    "name": "plumbing-ghost",
+    "dir": "plumbing-ghost",
+    "score": 120,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 180,
+    "leads": 110
+  },
+  {
+    "name": "ghost-systems",
+    "dir": "ghost-systems",
+    "score": 120,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 74,
+    "leads": 60
+  },
+  {
+    "name": "dubai-voice",
+    "dir": "dubai-voice",
+    "score": 115,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u2705",
+        15
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u2705",
+        10
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u274c",
+        0
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 20,
+    "leads": 40
+  },
+  {
+    "name": "micro-saas",
+    "dir": "micro-saas",
+    "score": 95,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u2705",
+        20
+      ],
+      "Vapi Config": [
+        "\u274c",
+        0
+      ],
+      "Contract": [
+        "\u2705",
+        10
+      ],
+      "Demo Script": [
+        "\u2705",
+        10
+      ],
+      "Leads": [
+        "\u2705",
+        10
+      ],
+      "Emails": [
+        "\u2705",
+        10
+      ],
+      "Quotes": [
+        "\u274c",
+        0
+      ],
+      "Follow-ups": [
+        "\u2705",
+        10
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u2705",
+        10
+      ]
+    },
+    "emails": 23,
+    "leads": 50
+  },
+  {
+    "name": "gumroad-tracker",
+    "dir": "gumroad-tracker",
+    "score": 15,
+    "max": 100,
+    "checks": {
+      "README": [
+        "\u2705",
+        10
+      ],
+      "Backend": [
+        "\u274c",
+        0
+      ],
+      "Vapi Config": [
+        "\u274c",
+        0
+      ],
+      "Contract": [
+        "\u274c",
+        0
+      ],
+      "Demo Script": [
+        "\u274c",
+        0
+      ],
+      "Leads": [
+        "\u274c",
+        0
+      ],
+      "Emails": [
+        "\u274c",
+        0
+      ],
+      "Quotes": [
+        "\u274c",
+        0
+      ],
+      "Follow-ups": [
+        "\u274c",
+        0
+      ],
+      "Onboarding": [
+        "\u2705",
+        5
+      ],
+      "Dockerfile": [
+        "\u274c",
+        0
+      ]
+    },
+    "emails": 0,
+    "leads": 0
+  }
+]

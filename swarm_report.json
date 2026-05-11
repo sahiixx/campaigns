@@ -1,0 +1,95 @@
+{
+  "campaigns": [
+    {
+      "name": "locksmith-ghost",
+      "files": 391,
+      "leads": 80,
+      "emails": 74,
+      "backend": true,
+      "revenue_potential": 34200,
+      "followups": 222,
+      "quotes": 70
+    },
+    {
+      "name": "towing-ghost",
+      "files": 391,
+      "leads": 80,
+      "emails": 74,
+      "backend": true,
+      "revenue_potential": 34200,
+      "followups": 222,
+      "quotes": 70
+    },
+    {
+      "name": "electrical-ghost",
+      "files": 391,
+      "leads": 80,
+      "emails": 74,
+      "backend": true,
+      "revenue_potential": 34200,
+      "followups": 222,
+      "quotes": 70
+    },
+    {
+      "name": "roofing-ghost",
+      "files": 391,
+      "leads": 80,
+      "emails": 74,
+      "backend": true,
+      "revenue_potential": 34200,
+      "followups": 222,
+      "quotes": 70
+    },
+    {
+      "name": "plumbing-ghost",
+      "files": 391,
+      "leads": 80,
+      "emails": 74,
+      "backend": true,
+      "revenue_potential": 34200,
+      "followups": 222,
+      "quotes": 70
+    },
+    {
+      "name": "ghost-systems",
+      "files": 396,
+      "leads": 80,
+      "emails": 74,
+      "backend": true,
+      "revenue_potential": 34200,
+      "followups": 222,
+      "quotes": 70
+    },
+    {
+      "name": "micro-saas",
+      "files": 6,
+      "leads": 0,
+      "emails": 0,
+      "backend": true,
+      "revenue_potential": 0,
+      "followups": 0,
+      "quotes": 0
+    },
+    {
+      "name": "gumroad-tracker",
+      "files": 2,
+      "leads": 0,
+      "emails": 0,
+      "backend": false,
+      "revenue_potential": 0,
+      "followups": 0,
+      "quotes": 0
+    },
+    {
+      "name": "dubai-voice",
+      "files": 8,
+      "leads": 0,
+      "emails": 0,
+      "backend": true,
+      "revenue_potential": 0,
+      "followups": 0,
+      "quotes": 0
+    }
+  ],
+  "top_pick": "locksmith-ghost"
+}

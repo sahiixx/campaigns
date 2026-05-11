@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ELE-DAL-001,SparkLine Dallas,Brian,(555) 859-9595,725 Dallas St,4.7,62,1,False,True,False,Dallas,electrical
+ELE-DAL-002,BrightWire Dallas,Tim,(555) 622-5769,504 Dallas St,4.9,57,1,False,True,False,Dallas,electrical
+ELE-DAL-003,CircuitMax Dallas,Scott,(555) 154-4053,2163 Dallas St,3.4,13,0,False,True,True,Dallas,electrical
+ELE-DAL-004,SparkLine Dallas,Kevin,(555) 314-2750,837 Dallas St,4.9,29,0,False,True,True,Dallas,electrical
+ELE-DAL-005,SparkLine Dallas,Brian,(555) 970-5849,3657 Dallas St,4.7,155,0,False,True,True,Dallas,electrical
+ELE-DAL-006,VoltTech Dallas,Tim,(555) 376-3325,6810 Dallas St,3.4,165,3,True,False,False,Dallas,electrical
+ELE-DAL-007,PowerPro Dallas,Andy,(555) 237-9070,5304 Dallas St,4.1,93,2,True,False,False,Dallas,electrical
+ELE-DAL-008,AmpFlow Dallas,Greg,(555) 167-4467,3974 Dallas St,3.8,24,3,True,False,False,Dallas,electrical
+ELE-DAL-009,PowerPro Dallas,Mark,(555) 119-7060,2581 Dallas St,4.2,139,3,True,False,False,Dallas,electrical
+ELE-DAL-010,BrightWire Dallas,Kevin,(555) 529-7212,7453 Dallas St,4.3,8,0,False,True,True,Dallas,electrical

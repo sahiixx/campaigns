@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+PLU-DAL-001,AquaFix Dallas,John,(555) 725-3940,4468 Dallas St,4.5,117,1,False,True,False,Dallas,plumbing
+PLU-DAL-002,LeakStop Dallas,Steve,(555) 480-7216,1838 Dallas St,3.6,70,1,False,True,False,Dallas,plumbing
+PLU-DAL-003,HydroFlow Dallas,Ryan,(555) 202-8788,1792 Dallas St,4.6,194,1,False,True,False,Dallas,plumbing
+PLU-DAL-004,FlowRight Dallas,Chris,(555) 292-2826,5185 Dallas St,3.5,117,2,True,False,False,Dallas,plumbing
+PLU-DAL-005,AquaFix Dallas,Ryan,(555) 798-9128,4093 Dallas St,4.3,31,3,True,False,False,Dallas,plumbing
+PLU-DAL-006,PipePro Dallas,Steve,(555) 420-2903,7343 Dallas St,4.0,148,3,True,False,False,Dallas,plumbing
+PLU-DAL-007,Prime Plumbing Dallas,Dave,(555) 273-3823,9052 Dallas St,3.7,65,3,True,False,False,Dallas,plumbing
+PLU-DAL-008,FlowRight Dallas,Steve,(555) 162-7288,4762 Dallas St,3.9,177,2,True,False,False,Dallas,plumbing
+PLU-DAL-009,HydroFlow Dallas,Ryan,(555) 154-5514,8173 Dallas St,3.1,142,0,False,True,True,Dallas,plumbing
+PLU-DAL-010,AquaFix Dallas,Dave,(555) 489-5549,7349 Dallas St,4.1,83,1,False,True,False,Dallas,plumbing

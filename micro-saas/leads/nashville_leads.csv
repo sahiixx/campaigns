@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,pain_score,manages_gbp_count,has_ai_response_tool,city,industry
+AGY-NAS-001,Vendasta Nashville,Amanda,(555) 900-7727,3,15,False,Nashville,digital_marketing_agency
+AGY-NAS-002,Grade.us Nashville,Jessica,(555) 839-8559,1,3,False,Nashville,digital_marketing_agency
+AGY-NAS-003,Vendasta Nashville,Sarah,(555) 822-3447,1,3,False,Nashville,digital_marketing_agency
+AGY-NAS-004,BirdEye Nashville,Amanda,(555) 318-6617,2,38,False,Nashville,digital_marketing_agency
+AGY-NAS-005,SOCi Nashville,Sarah,(555) 640-1522,3,23,False,Nashville,digital_marketing_agency
+AGY-NAS-006,BrightLocal Nashville,Ashley,(555) 322-2357,3,44,False,Nashville,digital_marketing_agency
+AGY-NAS-007,BirdEye Nashville,Amanda,(555) 937-9625,1,6,False,Nashville,digital_marketing_agency
+AGY-NAS-008,SOCi Nashville,Jessica,(555) 490-5026,2,22,False,Nashville,digital_marketing_agency
+AGY-NAS-009,BirdEye Nashville,Jessica,(555) 287-6652,1,7,False,Nashville,digital_marketing_agency
+AGY-NAS-010,BirdEye Nashville,Rachel,(555) 105-5279,1,2,False,Nashville,digital_marketing_agency

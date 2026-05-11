@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ROO-PHO-001,PeakRoof Phoenix,Jake,(555) 217-8912,7810 Phoenix St,3.6,12,3,True,False,False,Phoenix,roofing
+ROO-PHO-002,Apex Roofing Phoenix,Paul,(555) 538-1582,3451 Phoenix St,3.3,127,2,True,False,False,Phoenix,roofing
+ROO-PHO-003,EliteRoofing Phoenix,Sam,(555) 360-5479,5113 Phoenix St,3.1,1,3,True,False,False,Phoenix,roofing
+ROO-PHO-004,TopShield Phoenix,Sam,(555) 203-6610,1709 Phoenix St,3.0,76,0,False,True,True,Phoenix,roofing
+ROO-PHO-005,EliteRoofing Phoenix,Jake,(555) 732-9618,5027 Phoenix St,3.9,157,3,True,False,False,Phoenix,roofing
+ROO-PHO-006,CoverAll Phoenix,Nick,(555) 802-9453,5147 Phoenix St,3.7,120,2,True,False,False,Phoenix,roofing
+ROO-PHO-007,EliteRoofing Phoenix,Sam,(555) 805-6839,5600 Phoenix St,3.8,180,2,True,False,False,Phoenix,roofing
+ROO-PHO-008,CoverAll Phoenix,Dan,(555) 834-8407,9317 Phoenix St,4.0,106,2,True,False,False,Phoenix,roofing
+ROO-PHO-009,CoverAll Phoenix,Dan,(555) 356-6113,5837 Phoenix St,4.6,188,3,True,False,False,Phoenix,roofing
+ROO-PHO-010,SkyGuard Phoenix,Nick,(555) 803-8873,7839 Phoenix St,3.5,91,0,False,True,True,Phoenix,roofing

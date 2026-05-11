@@ -1,0 +1,77 @@
+{
+  "campaigns": [
+    {
+      "name": "locksmith-ghost",
+      "customers": 6,
+      "setup_revenue": 6000,
+      "mrr_month_1": 4800,
+      "mrr_month_12": 0,
+      "year_recurring": 16800,
+      "year_total": 22800
+    },
+    {
+      "name": "towing-ghost",
+      "customers": 5,
+      "setup_revenue": 6000,
+      "mrr_month_1": 4500,
+      "mrr_month_12": 0,
+      "year_recurring": 13500,
+      "year_total": 19500
+    },
+    {
+      "name": "plumbing-ghost",
+      "customers": 4,
+      "setup_revenue": 6000,
+      "mrr_month_1": 4800,
+      "mrr_month_12": 0,
+      "year_recurring": 12000,
+      "year_total": 18000
+    },
+    {
+      "name": "electrical-ghost",
+      "customers": 4,
+      "setup_revenue": 6000,
+      "mrr_month_1": 4800,
+      "mrr_month_12": 0,
+      "year_recurring": 12000,
+      "year_total": 18000
+    },
+    {
+      "name": "roofing-ghost",
+      "customers": 3,
+      "setup_revenue": 6000,
+      "mrr_month_1": 5400,
+      "mrr_month_12": 0,
+      "year_recurring": 10800,
+      "year_total": 16800
+    },
+    {
+      "name": "ghost-systems",
+      "customers": 3,
+      "setup_revenue": 4500,
+      "mrr_month_1": 3600,
+      "mrr_month_12": 0,
+      "year_recurring": 7200,
+      "year_total": 11700
+    },
+    {
+      "name": "micro-saas",
+      "customers": 4,
+      "setup_revenue": 0,
+      "mrr_month_1": 396,
+      "mrr_month_12": 0,
+      "year_recurring": 990,
+      "year_total": 990
+    },
+    {
+      "name": "dubai-voice",
+      "customers": 0,
+      "setup_revenue": 0,
+      "mrr_month_1": 0,
+      "mrr_month_12": 0,
+      "year_recurring": 0,
+      "year_total": 0
+    }
+  ],
+  "total_year_1": 107790
+}

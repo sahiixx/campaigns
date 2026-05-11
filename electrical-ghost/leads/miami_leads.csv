@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ELE-MIA-001,CircuitMax Miami,Scott,(555) 530-9907,3805 Miami St,3.7,120,0,False,True,True,Miami,electrical
+ELE-MIA-002,BrightWire Miami,Mark,(555) 892-2065,4520 Miami St,4.6,77,1,False,True,False,Miami,electrical
+ELE-MIA-003,VoltTech Miami,Brian,(555) 772-9317,1802 Miami St,4.3,8,0,False,True,True,Miami,electrical
+ELE-MIA-004,LiveWire Miami,Andy,(555) 267-9057,3133 Miami St,4.8,177,2,True,False,False,Miami,electrical
+ELE-MIA-005,PowerPro Miami,Mark,(555) 331-6085,5670 Miami St,4.7,45,3,True,False,False,Miami,electrical
+ELE-MIA-006,VoltTech Miami,Kevin,(555) 617-3306,9889 Miami St,3.0,148,1,False,True,False,Miami,electrical
+ELE-MIA-007,AmpFlow Miami,Andy,(555) 322-4301,2089 Miami St,3.3,148,3,True,False,False,Miami,electrical
+ELE-MIA-008,BrightWire Miami,Joe,(555) 487-5989,6872 Miami St,4.8,105,1,False,True,False,Miami,electrical
+ELE-MIA-009,CircuitMax Miami,Tim,(555) 397-5595,8381 Miami St,3.0,131,2,True,False,False,Miami,electrical
+ELE-MIA-010,PowerPro Miami,Scott,(555) 371-6253,5493 Miami St,4.7,160,2,True,False,False,Miami,electrical

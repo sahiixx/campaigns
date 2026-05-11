@@ -1,0 +1,36 @@
+version: '3.8'
+services:
+  ghost-api:
+    build: ./ghost-systems/backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./ghost-systems/backend/ghost.db:/app/ghost.db
+    environment:
+      - PYTHONUNBUFFERED=1
+  
+  reviewreply-api:
+    build: ./micro-saas/backend
+    ports:
+      - "8001:8001"
+    environment:
+      - STRIPE_PUBLISHABLE_KEY=${STRIPE_PK}
+      - STRIPE_SECRET_KEY=${STRIPE_SK}
+      - OPENAI_API_KEY=${OPENAI_KEY}
+  
+  dubai-api:
+    build: ./dubai-voice/backend
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./dubai-voice/backend/dubai.db:/app/dubai.db
+  
+  dashboard:
+    image: nginx:alpine
+    ports:
+      - "3000:80"
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html:ro
+      - ./ghost-systems:/usr/share/nginx/html/ghost-systems:ro
+      - ./micro-saas:/usr/share/nginx/html/micro-saas:ro
+      - ./dubai-voice:/usr/share/nginx/html/dubai-voice:ro

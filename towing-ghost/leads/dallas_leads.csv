@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+TOW-DAL-001,RapidTow Dallas,Walt,(555) 850-7498,4553 Dallas St,4.6,93,0,False,True,True,Dallas,towing
+TOW-DAL-002,CityTowing Dallas,Stan,(555) 648-5021,2143 Dallas St,4.2,94,1,False,True,False,Dallas,towing
+TOW-DAL-003,RoadRescue Dallas,Walt,(555) 323-3540,4577 Dallas St,4.1,11,1,False,True,False,Dallas,towing
+TOW-DAL-004,24/7 Tow Dallas,Phil,(555) 481-4548,5716 Dallas St,3.5,187,0,False,True,True,Dallas,towing
+TOW-DAL-005,FastTow Dallas,Dean,(555) 619-6738,5757 Dallas St,4.9,135,2,True,False,False,Dallas,towing
+TOW-DAL-006,EliteRecovery Dallas,Earl,(555) 527-5471,9103 Dallas St,4.2,184,2,True,False,False,Dallas,towing
+TOW-DAL-007,EliteRecovery Dallas,Bill,(555) 290-3419,8828 Dallas St,4.3,156,3,True,False,False,Dallas,towing
+TOW-DAL-008,RoadRescue Dallas,Bill,(555) 473-5196,5861 Dallas St,3.0,54,1,False,True,False,Dallas,towing
+TOW-DAL-009,EliteRecovery Dallas,Walt,(555) 261-3520,1136 Dallas St,4.1,94,1,False,True,False,Dallas,towing
+TOW-DAL-010,EliteRecovery Dallas,Carl,(555) 195-1866,5878 Dallas St,4.0,87,3,True,False,False,Dallas,towing

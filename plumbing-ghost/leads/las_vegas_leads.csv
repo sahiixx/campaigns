@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+PLU-LAS-001,Prime Plumbing Las Vegas,Mike,(555) 680-9646,2798 Las Vegas St,4.5,32,2,True,False,False,Las Vegas,plumbing
+PLU-LAS-002,PipePro Las Vegas,Tom,(555) 633-4691,2284 Las Vegas St,4.6,106,1,False,True,False,Las Vegas,plumbing
+PLU-LAS-003,BlueLine Las Vegas,Chris,(555) 427-9659,5392 Las Vegas St,4.9,138,0,False,True,True,Las Vegas,plumbing
+PLU-LAS-004,DrainMasters Las Vegas,Mike,(555) 662-8594,6049 Las Vegas St,3.2,43,0,False,True,True,Las Vegas,plumbing
+PLU-LAS-005,AquaFix Las Vegas,Steve,(555) 424-4143,6311 Las Vegas St,3.4,182,2,True,False,False,Las Vegas,plumbing
+PLU-LAS-006,DrainMasters Las Vegas,Mike,(555) 195-6947,2449 Las Vegas St,4.8,200,0,False,True,True,Las Vegas,plumbing
+PLU-LAS-007,AquaFix Las Vegas,John,(555) 323-5122,7646 Las Vegas St,3.8,165,3,True,False,False,Las Vegas,plumbing
+PLU-LAS-008,Prime Plumbing Las Vegas,John,(555) 685-4786,623 Las Vegas St,4.9,15,0,False,True,True,Las Vegas,plumbing
+PLU-LAS-009,DrainMasters Las Vegas,Chris,(555) 987-1263,3389 Las Vegas St,3.3,22,3,True,False,False,Las Vegas,plumbing
+PLU-LAS-010,FlowRight Las Vegas,Chris,(555) 621-4157,9102 Las Vegas St,4.9,128,1,False,True,False,Las Vegas,plumbing

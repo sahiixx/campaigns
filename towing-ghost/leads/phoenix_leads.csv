@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+TOW-PHO-001,RapidTow Phoenix,Earl,(555) 779-8344,4467 Phoenix St,5.0,27,0,False,True,True,Phoenix,towing
+TOW-PHO-002,RoadRescue Phoenix,Phil,(555) 744-8640,5982 Phoenix St,4.1,128,0,False,True,True,Phoenix,towing
+TOW-PHO-003,RoadRescue Phoenix,Walt,(555) 403-9509,5595 Phoenix St,3.3,138,1,False,True,False,Phoenix,towing
+TOW-PHO-004,RapidTow Phoenix,Phil,(555) 973-7249,9428 Phoenix St,4.5,189,1,False,True,False,Phoenix,towing
+TOW-PHO-005,RoadRescue Phoenix,Carl,(555) 995-4205,938 Phoenix St,4.2,155,2,True,False,False,Phoenix,towing
+TOW-PHO-006,RapidTow Phoenix,Phil,(555) 126-6120,6937 Phoenix St,4.6,193,2,True,False,False,Phoenix,towing
+TOW-PHO-007,FastTow Phoenix,Frank,(555) 741-9604,8275 Phoenix St,4.4,77,2,True,False,False,Phoenix,towing
+TOW-PHO-008,RapidTow Phoenix,Phil,(555) 126-8436,4277 Phoenix St,3.8,106,0,False,True,True,Phoenix,towing
+TOW-PHO-009,RoadRescue Phoenix,Frank,(555) 998-4326,4505 Phoenix St,4.8,39,2,True,False,False,Phoenix,towing
+TOW-PHO-010,RapidTow Phoenix,Earl,(555) 521-5160,7553 Phoenix St,3.3,174,2,True,False,False,Phoenix,towing

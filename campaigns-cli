@@ -1,0 +1,72 @@
+#!/bin/bash
+# Campaigns CLI — Unified management script
+set -e
+CMD="${1:-status}"
+
+case "$CMD" in
+  status)
+    echo "========================================"
+    echo "  CAMPAIGN SERVICES STATUS"
+    echo "========================================"
+    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot; do
+      state=$(systemctl --user is-active $svc 2>/dev/null || echo "inactive")
+      color="\033[32m" && [ "$state" != "active" ] && color="\033[31m"
+      printf "  ${color}%-24s\033[0m %s\n" "$svc:" "$state"
+    done
+    echo ""
+    for port in 8000 8002 8003 8004 8005 3000 8080; do
+      code=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:$port/ 2>/dev/null || echo "000")
+      color="\033[32m" && [ "$code" != "200" ] && color="\033[31m"
+      printf "  ${color}Port %-5s\033[0m HTTP %s\n" "$port:" "$code"
+    done
+    ;;
+  start)
+    echo "Starting all campaign services..."
+    systemctl --user daemon-reload
+    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot; do
+      systemctl --user start $svc 2>/dev/null && echo "  $svc started" || echo "  $svc failed"
+    done
+    echo "Done."
+    ;;
+  stop)
+    echo "Stopping all campaign services..."
+    for svc in ghost-api dubai-api gumroad-api crm-api campaign-dashboard saas-landing telegram-bot; do
+      systemctl --user stop $svc 2>/dev/null && echo "  $svc stopped" || echo "  $svc not running"
+    done
+    echo "Done."
+    ;;
+  restart)
+    $0 stop
+    sleep 1
+    $0 start
+    ;;
+  logs)
+    svc="${2:-ghost-api}"
+    journalctl --user -u $svc -n 50 --no-pager
+    ;;
+  sync)
+    echo "Syncing CRM leads..."
+    curl -s -X POST http://localhost:8005/sync | python3 -m json.tool
+    ;;
+  deploy)
+    echo "Deploy checklist:"
+    echo "  [ ] npx wrangler login && npx wrangler pages deploy micro-saas/"
+    echo "  [ ] Push backend repos to GitHub → connect to Render/Railway"
+    echo "  [ ] Vapi: dashboard.vapi.ai → import JSON → buy phone number"
+    echo "  [ ] SendGrid: verify domain → add API key to .env"
+    echo "  [ ] Stripe: connect account → add keys to micro-saas/backend/.env"
+    echo "  [ ] Telegram: @BotFather → set webhook to /webhook/telegram"
+    ;;
+  *)
+    echo "Usage: campaigns-cli <command>"
+    echo ""
+    echo "Commands:"
+    echo "  status   Show service + port health"
+    echo "  start    Start all services"
+    echo "  stop     Stop all services"
+    echo "  restart  Restart all services"
+    echo "  logs     Show logs for a service"
+    echo "  sync     Sync CRM leads from all campaigns"
+    echo "  deploy   Show deployment checklist"
+    ;;
+esac

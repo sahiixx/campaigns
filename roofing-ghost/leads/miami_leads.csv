@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ROO-MIA-001,CoverAll Miami,Paul,(555) 721-6071,8791 Miami St,4.3,130,1,False,True,False,Miami,roofing
+ROO-MIA-002,TopShield Miami,Nick,(555) 331-1887,4249 Miami St,3.9,137,0,False,True,True,Miami,roofing
+ROO-MIA-003,CoverAll Miami,Sam,(555) 323-9188,6009 Miami St,3.2,78,2,True,False,False,Miami,roofing
+ROO-MIA-004,TopShield Miami,Eric,(555) 338-3541,8940 Miami St,3.6,57,1,False,True,False,Miami,roofing
+ROO-MIA-005,Apex Roofing Miami,Eric,(555) 422-3518,2621 Miami St,4.1,33,3,True,False,False,Miami,roofing
+ROO-MIA-006,CoverAll Miami,Dan,(555) 517-1885,6579 Miami St,4.8,6,1,False,True,False,Miami,roofing
+ROO-MIA-007,Apex Roofing Miami,Rob,(555) 669-7098,1279 Miami St,3.2,130,0,False,True,True,Miami,roofing
+ROO-MIA-008,PeakRoof Miami,Matt,(555) 136-4054,3960 Miami St,3.2,25,1,False,True,False,Miami,roofing
+ROO-MIA-009,TopShield Miami,Dan,(555) 860-4013,3498 Miami St,4.7,166,1,False,True,False,Miami,roofing
+ROO-MIA-010,EliteRoofing Miami,Rob,(555) 275-4590,9561 Miami St,4.8,171,0,False,True,True,Miami,roofing

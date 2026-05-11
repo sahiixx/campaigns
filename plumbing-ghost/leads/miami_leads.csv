@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+PLU-MIA-001,Prime Plumbing Miami,Chris,(555) 216-2059,7561 Miami St,3.8,116,0,False,True,True,Miami,plumbing
+PLU-MIA-002,BlueLine Miami,Alex,(555) 329-7321,7006 Miami St,3.6,197,1,False,True,False,Miami,plumbing
+PLU-MIA-003,PipePro Miami,Chris,(555) 425-9798,4830 Miami St,3.7,127,3,True,False,False,Miami,plumbing
+PLU-MIA-004,AquaFix Miami,Alex,(555) 727-9465,9205 Miami St,4.3,192,2,True,False,False,Miami,plumbing
+PLU-MIA-005,BlueLine Miami,John,(555) 483-9257,9678 Miami St,4.5,62,3,True,False,False,Miami,plumbing
+PLU-MIA-006,FlowRight Miami,Tom,(555) 478-3119,5882 Miami St,3.1,23,3,True,False,False,Miami,plumbing
+PLU-MIA-007,DrainMasters Miami,Ryan,(555) 126-4037,7905 Miami St,4.3,182,0,False,True,True,Miami,plumbing
+PLU-MIA-008,AquaFix Miami,Alex,(555) 772-4659,6385 Miami St,4.3,194,2,True,False,False,Miami,plumbing
+PLU-MIA-009,LeakStop Miami,Tom,(555) 401-6671,3700 Miami St,3.7,121,2,True,False,False,Miami,plumbing
+PLU-MIA-010,AquaFix Miami,Alex,(555) 506-7686,8360 Miami St,3.5,170,3,True,False,False,Miami,plumbing

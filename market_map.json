@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Unknown",
+    "leads": 480,
+    "industries": 1,
+    "high_pain": 420,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 143.8
+  },
+  {
+    "city": "Dubai",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 6,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 130.0
+  },
+  {
+    "city": "Sharjah",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 6,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 130.0
+  },
+  {
+    "city": "Austin",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 5,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 125.0
+  },
+  {
+    "city": "Denver",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 5,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 125.0
+  },
+  {
+    "city": "Atlanta",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 5,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 125.0
+  },
+  {
+    "city": "Nashville",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 5,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 125.0
+  },
+  {
+    "city": "Ajman",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 5,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 125.0
+  },
+  {
+    "city": "Portland",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 3,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 115.0
+  },
+  {
+    "city": "Abu Dhabi",
+    "leads": 10,
+    "industries": 1,
+    "high_pain": 3,
+    "avg_rating": 0.0,
+    "avg_reviews": 0.0,
+    "opportunity_score": 115.0
+  },
+  {
+    "city": "Phoenix",
+    "leads": 50,
+    "industries": 5,
+    "high_pain": 28,
+    "avg_rating": 4.03,
+    "avg_reviews": 105.0,
+    "opportunity_score": 37.4
+  },
+  {
+    "city": "Miami",
+    "leads": 50,
+    "industries": 5,
+    "high_pain": 27,
+    "avg_rating": 4.02,
+    "avg_reviews": 102.0,
+    "opportunity_score": 36.5
+  },
+  {
+    "city": "Las Vegas",
+    "leads": 50,
+    "industries": 5,
+    "high_pain": 23,
+    "avg_rating": 3.97,
+    "avg_reviews": 88.0,
+    "opportunity_score": 34.8
+  },
+  {
+    "city": "Houston",
+    "leads": 50,
+    "industries": 5,
+    "high_pain": 25,
+    "avg_rating": 4.08,
+    "avg_reviews": 88.0,
+    "opportunity_score": 34.6
+  },
+  {
+    "city": "Dallas",
+    "leads": 50,
+    "industries": 5,
+    "high_pain": 22,
+    "avg_rating": 3.96,
+    "avg_reviews": 96.0,
+    "opportunity_score": 33.3
+  }
+]

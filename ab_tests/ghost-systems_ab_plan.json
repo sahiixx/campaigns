@@ -1,0 +1,161 @@
+{
+  "campaign": "ghost-systems",
+  "variants": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "assignments": [
+    {
+      "email": "HVAC-DAL-002",
+      "variant": "D",
+      "subject": "HVAC companies in Dallas are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DAL-003",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-004",
+      "variant": "D",
+      "subject": "HVAC companies in Dallas are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DAL-005",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-006",
+      "variant": "D",
+      "subject": "HVAC companies in Dallas are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DAL-007",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DAL-008",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-009",
+      "variant": "D",
+      "subject": "HVAC companies in Dallas are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DAL-010",
+      "variant": "D",
+      "subject": "HVAC companies in Dallas are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DAL-011",
+      "variant": "D",
+      "subject": "HVAC companies in Dallas are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DUB-002",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-003",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-004",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-005",
+      "variant": "D",
+      "subject": "HVAC companies in Dubai are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DUB-006",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DUB-007",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-008",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DUB-009",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-010",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-011",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-012",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-014",
+      "variant": "D",
+      "subject": "HVAC companies in Dubai are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DUB-015",
+      "variant": "D",
+      "subject": "HVAC companies in Dubai are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DUB-017",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-018",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-019",
+      "variant": "D",
+      "subject": "HVAC companies in Dubai are using AI receptionists"
+    },
+    {
+      "email": "HVAC-DUB-020",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-022",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-023",
+      "variant": "B",
+      "subject": "Your after-hours HVAC leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-024",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "campaign": "dubai-voice",
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "assignments": [
+    {
+      "email": "DUB-ABU-007",
+      "variant": "C",
+      "subject": "there \u2014 are you capturing 2 AM calls?"
+    },
+    {
+      "email": "DUB-ABU-008",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-ABU-010",
+      "variant": "C",
+      "subject": "there \u2014 are you capturing 2 AM calls?"
+    },
+    {
+      "email": "DUB-AJM-002",
+      "variant": "C",
+      "subject": "there \u2014 are you capturing 2 AM calls?"
+    },
+    {
+      "email": "DUB-AJM-005",
+      "variant": "C",
+      "subject": "there \u2014 are you capturing 2 AM calls?"
+    },
+    {
+      "email": "DUB-AJM-006",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-AJM-007",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-AJM-009",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-DUB-001",
+      "variant": "A",
+      "subject": "Your missed international inquiries, there"
+    },
+    {
+      "email": "DUB-DUB-002",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-DUB-004",
+      "variant": "A",
+      "subject": "Your missed international inquiries, there"
+    },
+    {
+      "email": "DUB-DUB-006",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-DUB-008",
+      "variant": "A",
+      "subject": "Your missed international inquiries, there"
+    },
+    {
+      "email": "DUB-DUB-010",
+      "variant": "A",
+      "subject": "Your missed international inquiries, there"
+    },
+    {
+      "email": "DUB-SHA-001",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-SHA-003",
+      "variant": "C",
+      "subject": "there \u2014 are you capturing 2 AM calls?"
+    },
+    {
+      "email": "DUB-SHA-005",
+      "variant": "C",
+      "subject": "there \u2014 are you capturing 2 AM calls?"
+    },
+    {
+      "email": "DUB-SHA-006",
+      "variant": "A",
+      "subject": "Your missed international inquiries, there"
+    },
+    {
+      "email": "DUB-SHA-009",
+      "variant": "B",
+      "subject": "Dubai luxury agencies using AI concierge"
+    },
+    {
+      "email": "DUB-SHA-010",
+      "variant": "A",
+      "subject": "Your missed international inquiries, there"
+    }
+  ]
+}

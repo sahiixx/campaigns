@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+LOC-DAL-001,SecureEntry Dallas,Ray,(555) 841-4341,8747 Dallas St,4.4,173,3,True,False,False,Dallas,locksmith
+LOC-DAL-002,PrimeLock Dallas,Lou,(555) 679-3577,4525 Dallas St,3.7,102,3,True,False,False,Dallas,locksmith
+LOC-DAL-003,KeyMaster Dallas,Max,(555) 439-2579,1969 Dallas St,4.4,185,1,False,True,False,Dallas,locksmith
+LOC-DAL-004,SafeGuard Dallas,Max,(555) 430-5578,2013 Dallas St,3.5,8,0,False,True,True,Dallas,locksmith
+LOC-DAL-005,SecureEntry Dallas,Ray,(555) 411-8255,3401 Dallas St,3.3,110,2,True,False,False,Dallas,locksmith
+LOC-DAL-006,AccessNow Dallas,Ben,(555) 849-3793,2773 Dallas St,3.1,15,1,False,True,False,Dallas,locksmith
+LOC-DAL-007,SafeGuard Dallas,Lou,(555) 864-7205,3105 Dallas St,3.6,28,1,False,True,False,Dallas,locksmith
+LOC-DAL-008,LockPro Dallas,Leo,(555) 621-4130,4955 Dallas St,4.1,88,3,True,False,False,Dallas,locksmith
+LOC-DAL-009,PrimeLock Dallas,Max,(555) 943-9597,465 Dallas St,4.5,82,2,True,False,False,Dallas,locksmith
+LOC-DAL-010,SecureEntry Dallas,Max,(555) 616-9001,7268 Dallas St,4.1,143,2,True,False,False,Dallas,locksmith

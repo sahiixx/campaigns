@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,pain_score,has_24_7_call_center,has_multilingual_support,has_whatsapp_integration,city,industry
+DUB-AJM-001,RoyalRealty Ajman,Zayed,+971-50-3817132,137 Ajman Street,1,False,True,False,Ajman,real_estate
+DUB-AJM-002,PalmResidences Ajman,Samir,+971-50-8357294,364 Ajman Street,3,False,False,False,Ajman,real_estate
+DUB-AJM-003,DubaiHomes Ajman,Khalid,+971-50-6000423,544 Ajman Street,0,True,True,True,Ajman,real_estate
+DUB-AJM-004,LuxEstate Ajman,Zayed,+971-50-8850023,314 Ajman Street,0,True,True,True,Ajman,real_estate
+DUB-AJM-005,EliteLiving Ajman,Rashid,+971-50-5414444,41 Ajman Street,3,False,False,False,Ajman,real_estate
+DUB-AJM-006,PalmResidences Ajman,Tariq,+971-50-3363834,982 Ajman Street,2,False,False,False,Ajman,real_estate
+DUB-AJM-007,RoyalRealty Ajman,Rashid,+971-50-8784981,768 Ajman Street,2,False,False,False,Ajman,real_estate
+DUB-AJM-008,PalmResidences Ajman,Faisal,+971-50-9455779,235 Ajman Street,1,False,True,False,Ajman,real_estate
+DUB-AJM-009,PalmResidences Ajman,Samir,+971-50-2263431,752 Ajman Street,3,False,False,False,Ajman,real_estate
+DUB-AJM-010,DubaiHomes Ajman,Samir,+971-50-4064048,745 Ajman Street,0,True,True,True,Ajman,real_estate

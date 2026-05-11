@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+PLU-HOU-001,Prime Plumbing Houston,Tom,(555) 477-4159,1159 Houston St,4.7,112,0,False,True,True,Houston,plumbing
+PLU-HOU-002,DrainMasters Houston,Dave,(555) 318-2498,1084 Houston St,4.1,77,3,True,False,False,Houston,plumbing
+PLU-HOU-003,DrainMasters Houston,Alex,(555) 471-9556,4132 Houston St,4.8,69,2,True,False,False,Houston,plumbing
+PLU-HOU-004,HydroFlow Houston,John,(555) 873-3744,6179 Houston St,4.4,11,1,False,True,False,Houston,plumbing
+PLU-HOU-005,DrainMasters Houston,Tom,(555) 538-2214,4489 Houston St,5.0,37,1,False,True,False,Houston,plumbing
+PLU-HOU-006,LeakStop Houston,Mike,(555) 253-1251,3605 Houston St,4.1,105,2,True,False,False,Houston,plumbing
+PLU-HOU-007,AquaFix Houston,Tom,(555) 216-2331,1917 Houston St,4.4,45,0,False,True,True,Houston,plumbing
+PLU-HOU-008,PipePro Houston,John,(555) 539-9438,1638 Houston St,4.0,136,0,False,True,True,Houston,plumbing
+PLU-HOU-009,FlowRight Houston,Dave,(555) 997-3958,1577 Houston St,4.2,176,1,False,True,False,Houston,plumbing
+PLU-HOU-010,PipePro Houston,Alex,(555) 930-2784,4075 Houston St,3.9,110,1,False,True,False,Houston,plumbing

@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ghost-systems-api
+    runtime: docker
+    repo: https://github.com/sahiixx/ghost-systems
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
+    healthCheckPath: /

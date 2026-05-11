@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,pain_score,manages_gbp_count,has_ai_response_tool,city,industry
+AGY-ATL-001,BirdEye Atlanta,Laura,(555) 522-6683,3,11,False,Atlanta,digital_marketing_agency
+AGY-ATL-002,BrightLocal Atlanta,Jessica,(555) 779-9172,2,42,False,Atlanta,digital_marketing_agency
+AGY-ATL-003,Chatmeter Atlanta,Laura,(555) 958-7872,3,17,False,Atlanta,digital_marketing_agency
+AGY-ATL-004,Whitespark Atlanta,Nicole,(555) 838-2787,1,7,False,Atlanta,digital_marketing_agency
+AGY-ATL-005,Grade.us Atlanta,Laura,(555) 208-1597,0,2,True,Atlanta,digital_marketing_agency
+AGY-ATL-006,BirdEye Atlanta,Jessica,(555) 425-6525,2,31,False,Atlanta,digital_marketing_agency
+AGY-ATL-007,Synup Atlanta,Nicole,(555) 125-8414,2,8,False,Atlanta,digital_marketing_agency
+AGY-ATL-008,BirdEye Atlanta,Nicole,(555) 548-9286,0,6,True,Atlanta,digital_marketing_agency
+AGY-ATL-009,SOCi Atlanta,Nicole,(555) 736-1061,1,4,False,Atlanta,digital_marketing_agency
+AGY-ATL-010,Chatmeter Atlanta,Ashley,(555) 200-5730,0,6,True,Atlanta,digital_marketing_agency

@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ELE-LAS-001,BrightWire Las Vegas,Brian,(555) 565-9862,2874 Las Vegas St,4.2,3,0,False,True,True,Las Vegas,electrical
+ELE-LAS-002,BrightWire Las Vegas,Andy,(555) 317-4636,9696 Las Vegas St,3.1,69,2,True,False,False,Las Vegas,electrical
+ELE-LAS-003,BrightWire Las Vegas,Joe,(555) 673-9701,9126 Las Vegas St,3.0,44,2,True,False,False,Las Vegas,electrical
+ELE-LAS-004,BrightWire Las Vegas,Brian,(555) 592-7653,629 Las Vegas St,4.1,21,3,True,False,False,Las Vegas,electrical
+ELE-LAS-005,AmpFlow Las Vegas,Kevin,(555) 171-9350,4942 Las Vegas St,3.3,131,1,False,True,False,Las Vegas,electrical
+ELE-LAS-006,BrightWire Las Vegas,Andy,(555) 832-6949,5650 Las Vegas St,4.8,111,3,True,False,False,Las Vegas,electrical
+ELE-LAS-007,CircuitMax Las Vegas,Tim,(555) 259-9918,5429 Las Vegas St,3.2,41,0,False,True,True,Las Vegas,electrical
+ELE-LAS-008,CircuitMax Las Vegas,Scott,(555) 259-5596,6415 Las Vegas St,4.4,54,1,False,True,False,Las Vegas,electrical
+ELE-LAS-009,CircuitMax Las Vegas,Brian,(555) 305-4714,9515 Las Vegas St,3.3,49,2,True,False,False,Las Vegas,electrical
+ELE-LAS-010,VoltTech Las Vegas,Greg,(555) 307-1897,7303 Las Vegas St,4.8,104,3,True,False,False,Las Vegas,electrical

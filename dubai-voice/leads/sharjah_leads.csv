@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,pain_score,has_24_7_call_center,has_multilingual_support,has_whatsapp_integration,city,industry
+DUB-SHA-001,PrimeProperties Sharjah,Omar,+971-50-2898055,48 Sharjah Street,2,False,False,False,Sharjah,real_estate
+DUB-SHA-002,DubaiHomes Sharjah,Faisal,+971-50-6154536,379 Sharjah Street,0,True,True,True,Sharjah,real_estate
+DUB-SHA-003,PrimeProperties Sharjah,Omar,+971-50-2384390,958 Sharjah Street,2,False,False,False,Sharjah,real_estate
+DUB-SHA-004,DubaiHomes Sharjah,Hassan,+971-50-3991716,529 Sharjah Street,1,False,True,False,Sharjah,real_estate
+DUB-SHA-005,DubaiHomes Sharjah,Omar,+971-50-8334765,805 Sharjah Street,3,False,False,False,Sharjah,real_estate
+DUB-SHA-006,BurjEstates Sharjah,Khalid,+971-50-7616884,167 Sharjah Street,2,False,False,False,Sharjah,real_estate
+DUB-SHA-007,LuxEstate Sharjah,Samir,+971-50-7824346,676 Sharjah Street,0,True,True,True,Sharjah,real_estate
+DUB-SHA-008,MarinaViews Sharjah,Samir,+971-50-9711575,617 Sharjah Street,0,True,True,True,Sharjah,real_estate
+DUB-SHA-009,MarinaViews Sharjah,Tariq,+971-50-3107352,708 Sharjah Street,3,False,False,False,Sharjah,real_estate
+DUB-SHA-010,PrimeProperties Sharjah,Faisal,+971-50-4673667,478 Sharjah Street,2,False,False,False,Sharjah,real_estate

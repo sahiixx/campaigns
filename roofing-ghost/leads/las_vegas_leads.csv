@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ROO-LAS-001,Apex Roofing Las Vegas,Nick,(555) 377-1462,5236 Las Vegas St,3.3,104,3,True,False,False,Las Vegas,roofing
+ROO-LAS-002,Apex Roofing Las Vegas,Rob,(555) 916-2025,6158 Las Vegas St,3.4,55,1,False,True,False,Las Vegas,roofing
+ROO-LAS-003,CoverAll Las Vegas,Rob,(555) 327-4342,9921 Las Vegas St,3.1,180,0,False,True,True,Las Vegas,roofing
+ROO-LAS-004,SkyGuard Las Vegas,Dan,(555) 868-2224,6628 Las Vegas St,3.6,51,1,False,True,False,Las Vegas,roofing
+ROO-LAS-005,Apex Roofing Las Vegas,Matt,(555) 842-9816,8065 Las Vegas St,4.6,108,2,True,False,False,Las Vegas,roofing
+ROO-LAS-006,SkyGuard Las Vegas,Rob,(555) 710-2036,6503 Las Vegas St,3.5,34,2,True,False,False,Las Vegas,roofing
+ROO-LAS-007,CoverAll Las Vegas,Matt,(555) 781-4392,2875 Las Vegas St,3.2,139,3,True,False,False,Las Vegas,roofing
+ROO-LAS-008,EliteRoofing Las Vegas,Dan,(555) 360-7794,9124 Las Vegas St,4.2,35,2,True,False,False,Las Vegas,roofing
+ROO-LAS-009,EliteRoofing Las Vegas,Jake,(555) 255-1264,6699 Las Vegas St,3.3,76,2,True,False,False,Las Vegas,roofing
+ROO-LAS-010,Apex Roofing Las Vegas,Jake,(555) 240-3542,8955 Las Vegas St,4.5,56,1,False,True,False,Las Vegas,roofing

@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+TOW-HOU-001,AutoHaul Houston,Phil,(555) 769-9464,486 Houston St,3.2,141,3,True,False,False,Houston,towing
+TOW-HOU-002,RapidTow Houston,Earl,(555) 604-1702,7561 Houston St,3.6,47,3,True,False,False,Houston,towing
+TOW-HOU-003,RoadRescue Houston,Walt,(555) 806-2359,133 Houston St,4.8,79,0,False,True,True,Houston,towing
+TOW-HOU-004,24/7 Tow Houston,Phil,(555) 392-3488,7422 Houston St,3.6,130,1,False,True,False,Houston,towing
+TOW-HOU-005,FastTow Houston,Dean,(555) 820-5313,9171 Houston St,3.5,21,1,False,True,False,Houston,towing
+TOW-HOU-006,RapidTow Houston,Carl,(555) 306-3852,196 Houston St,3.4,77,3,True,False,False,Houston,towing
+TOW-HOU-007,FastTow Houston,Phil,(555) 579-2594,5919 Houston St,4.6,48,2,True,False,False,Houston,towing
+TOW-HOU-008,RoadRescue Houston,Carl,(555) 709-1326,8360 Houston St,3.8,92,0,False,True,True,Houston,towing
+TOW-HOU-009,RoadRescue Houston,Stan,(555) 224-1493,5931 Houston St,4.9,196,1,False,True,False,Houston,towing
+TOW-HOU-010,AutoHaul Houston,Carl,(555) 917-7867,9400 Houston St,3.0,13,3,True,False,False,Houston,towing

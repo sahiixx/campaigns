@@ -1,0 +1,71 @@
+{
+  "name": "Ghost Systems Electrical Receptionist",
+  "model": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "systemPrompt": "You are Aria-Ele, the AI receptionist for {{Company_Name}}. You answer Electrical calls 24/7.\n\nYour job:\n1. Greet the caller warmly\n2. Ask: residential or commercial?\n3. Ask: what's the issue? (heating, cooling, emergency, maintenance)\n4. Ask: how urgent? (same day, this week, routine)\n5. Qualify: budget range, property size, address\n6. Book appointment into calendar OR escalate to human for emergencies\n7. Text summary to technician\n\nTone: Professional, friendly, efficient. Speak English, Spanish, or Arabic based on caller preference.\n\nIf caller asks for pricing: 'Our diagnostic fee is $89, which is waived if you proceed with service. Emergency calls have a $150 after-hours fee. Would you like me to check availability?'\n\nIf caller is angry: Apologize, acknowledge frustration, offer immediate booking.\n\nNever say 'I am an AI'. Say 'This is Aria-Ele, your Electrical assistant.'"
+  },
+  "voice": {
+    "provider": "11labs",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "stability": 0.5,
+    "similarityBoost": 0.75
+  },
+  "functions": [
+    {
+      "name": "bookAppointment",
+      "description": "Book an Electrical service appointment",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "customerName": {"type": "string"},
+          "phone": {"type": "string"},
+          "address": {"type": "string"},
+          "serviceType": {"type": "string", "enum": ["heating", "cooling", "emergency", "maintenance"]},
+          "propertyType": {"type": "string", "enum": ["residential", "commercial"]},
+          "urgency": {"type": "string", "enum": ["same_day", "this_week", "routine"]},
+          "preferredDate": {"type": "string"},
+          "notes": {"type": "string"}
+        },
+        "required": ["customerName", "phone", "address", "serviceType", "propertyType", "urgency"]
+      }
+    },
+    {
+      "name": "sendTextSummary",
+      "description": "Send text summary to technician",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "technicianPhone": {"type": "string"},
+          "customerName": {"type": "string"},
+          "address": {"type": "string"},
+          "issue": {"type": "string"},
+          "urgency": {"type": "string"},
+          "appointmentTime": {"type": "string"}
+        },
+        "required": ["technicianPhone", "customerName", "address", "issue", "urgency"]
+      }
+    },
+    {
+      "name": "checkAvailability",
+      "description": "Check technician availability",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "date": {"type": "string"},
+          "serviceType": {"type": "string"}
+        },
+        "required": ["date"]
+      }
+    }
+  ],
+  "firstMessage": "Thank you for calling {{Company_Name}}. This is Aria-Ele, your Electrical assistant. Are you calling for residential or commercial service today?",
+  "endCallFunctionEnabled": true,
+  "endCallMessage": "Thank you for calling {{Company_Name}}. Your appointment is confirmed and our technician will text you 30 minutes before arrival. Have a great day!",
+  "silenceTimeoutSeconds": 10,
+  "maxDurationSeconds": 300,
+  "backgroundSound": "office",
+  "voicemailEnabled": true,
+  "voicemailMessage": "Hi, you've reached {{Company_Name}}. We're currently on another call but Aria-Ele will call you back within 10 minutes. For emergencies, press 1 to connect to our on-call technician."
+}

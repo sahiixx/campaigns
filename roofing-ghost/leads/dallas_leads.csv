@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ROO-DAL-001,StormProof Dallas,Dan,(555) 419-6372,6127 Dallas St,3.7,155,1,False,True,False,Dallas,roofing
+ROO-DAL-002,StormProof Dallas,Nick,(555) 687-1451,9397 Dallas St,3.1,74,0,False,True,True,Dallas,roofing
+ROO-DAL-003,PeakRoof Dallas,Eric,(555) 495-5011,4535 Dallas St,3.5,14,1,False,True,False,Dallas,roofing
+ROO-DAL-004,TopShield Dallas,Dan,(555) 358-1894,7786 Dallas St,3.4,74,2,True,False,False,Dallas,roofing
+ROO-DAL-005,TopShield Dallas,Sam,(555) 143-6514,5838 Dallas St,4.3,100,0,False,True,True,Dallas,roofing
+ROO-DAL-006,SkyGuard Dallas,Rob,(555) 740-1650,8995 Dallas St,3.0,120,0,False,True,True,Dallas,roofing
+ROO-DAL-007,SkyGuard Dallas,Sam,(555) 580-1353,3139 Dallas St,4.4,155,0,False,True,True,Dallas,roofing
+ROO-DAL-008,CoverAll Dallas,Matt,(555) 623-3846,3080 Dallas St,3.1,17,3,True,False,False,Dallas,roofing
+ROO-DAL-009,Apex Roofing Dallas,Dan,(555) 148-4046,5317 Dallas St,4.0,70,0,False,True,True,Dallas,roofing
+ROO-DAL-010,EliteRoofing Dallas,Nick,(555) 446-1681,2979 Dallas St,4.0,92,2,True,False,False,Dallas,roofing

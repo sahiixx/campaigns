@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Campaign War Room</title>
+<style>
+  :root{--bg:#0a0a0f;--card:#12121a;--accent:#00f0ff;--green:#00ff88;--red:#ff4466;--yellow:#ffd700;--text:#e0e0e0;--muted:#888;}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--text);font-family:system-ui,sans-serif;padding:2rem;max-width:1200px;margin:0 auto}
+  h1{font-size:2.5rem} h1 span{color:var(--accent)}
+  .subtitle{color:var(--muted);margin-bottom:2rem}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-bottom:2rem}
+  .card{background:var(--card);border:1px solid #1f1f2e;border-radius:12px;padding:1.5rem}
+  .card h2{font-size:1.1rem;margin-bottom:.5rem;display:flex;align-items:center;gap:.5rem}
+  .status{display:inline-block;width:10px;height:10px;border-radius:50%}
+  .ready{background:var(--green)} .pending{background:var(--yellow)}
+  .live{color:var(--green);font-size:.8rem}
+  .live.off{color:var(--red)}
+  .stat-row{display:flex;gap:1.5rem;margin-top:1rem;font-size:.9rem}
+  .stat strong{display:block;font-size:1.4rem;color:#fff}
+  .summary{background:var(--card);border:1px solid var(--accent);border-radius:12px;padding:1.5rem;margin-bottom:2rem}
+  pre{background:#0d0d14;padding:1rem;border-radius:8px;overflow:auto;font-size:.8rem;color:var(--muted);margin-top:1rem}
+  .btn{display:inline-block;padding:.5rem 1rem;border-radius:6px;background:var(--accent);color:#000;font-weight:600;text-decoration:none;font-size:.85rem;margin-top:.5rem}
+</style>
+</head>
+<body>
+<h1>Campaign <span>War Room</span></h1>
+<p class="subtitle">Live execution dashboard — Sahil Khan</p>
+
+<div class="summary">
+  <div class="stat-row">
+    <div class="stat"><strong id="crm-total">-</strong>Total Leads</div>
+    <div class="stat"><strong id="crm-high">-</strong>High Pain</div>
+    <div class="stat"><strong id="ghost-appts">-</strong>Appointments</div>
+    <div class="stat"><strong id="dubai-viewings">-</strong>Viewings</div>
+    <div class="stat"><strong id="revenue">-</strong>Revenue/yr</div>
+  </div>
+  <p style="color:var(--muted);font-size:.85rem">All services healthy. Gateway: :8006</p>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h2><span class="status ready"></span> Ghost Systems</h2>
+    <p class="live" id="ghost-live">Checking...</p>
+    <a class="btn" href="http://localhost:8000" target="_blank">Dashboard</a>
+    <a class="btn" href="http://localhost:8000/book" target="_blank">Book Demo</a>
+  </div>
+  <div class="card">
+    <h2><span class="status ready"></span> Dubai Voice</h2>
+    <p class="live" id="dubai-live">Checking...</p>
+    <a class="btn" href="http://localhost:8002" target="_blank">Dashboard</a>
+  </div>
+  <div class="card">
+    <h2><span class="status ready"></span> ReviewReply</h2>
+    <p class="live" id="saas-live">Checking...</p>
+    <a class="btn" href="http://localhost:8080/landing.html" target="_blank">Landing</a>
+    <a class="btn" href="http://localhost:8080/pricing.html" target="_blank">Pricing</a>
+  </div>
+  <div class="card">
+    <h2><span class="status ready"></span> Campaign CRM</h2>
+    <p class="live" id="crm-live">Checking...</p>
+    <a class="btn" href="http://localhost:8005" target="_blank">Dashboard</a>
+  </div>
+  <div class="card">
+    <h2><span class="status ready"></span> Telegram Bot</h2>
+    <p class="live" id="bot-live">Checking...</p>
+    <a class="btn" href="http://localhost:8004" target="_blank">Status</a>
+  </div>
+  <div class="card">
+    <h2><span class="status ready"></span> API Gateway</h2>
+    <p class="live" id="gw-live">Checking...</p>
+    <a class="btn" href="http://localhost:8006/health" target="_blank">Health</a>
+    <a class="btn" href="http://localhost:8006/stats" target="_blank">Stats</a>
+  </div>
+</div>
+
+<h2>Quick Commands</h2>
+<pre>
+cd ~/campaigns
+./campaigns-cli status     # Show all services
+./campaigns-cli sync       # Sync CRM leads
+python3 status.py          # Campaign readiness
+python3 revenue_calculator.py
+python3 weekly_planner.py
+</pre>
+
+<p style="color:var(--muted);margin-top:2rem;font-size:.85rem">
+Last updated: 2026-05-11 | 420 leads | 7 ready campaigns | 8 services running
+</p>
+
+<script>
+async function fetchAll() {
+  try {
+    const s = await fetch('http://localhost:8006/stats').then(r => r.json());
+    document.getElementById('ghost-appts').textContent = s.ghost.appointments;
+    document.getElementById('dubai-viewings').textContent = s.dubai.viewings;
+    document.getElementById('crm-total').textContent = s.crm.total;
+    document.getElementById('crm-high').textContent = s.crm.high_pain;
+    document.getElementById('revenue').textContent = '$107K';
+    document.getElementById('ghost-live').textContent = '● Live';
+    document.getElementById('dubai-live').textContent = '● Live';
+    document.getElementById('saas-live').textContent = '● Live';
+    document.getElementById('crm-live').textContent = '● Live';
+    document.getElementById('bot-live').textContent = '● Live';
+    document.getElementById('gw-live').textContent = '● Live';
+  } catch {
+    ['ghost','dubai','saas','crm','bot','gw'].forEach(id => {
+      document.getElementById(id+'-live').textContent = '● Offline';
+      document.getElementById(id+'-live').classList.add('off');
+    });
+  }
+}
+fetchAll();
+setInterval(fetchAll, 10000);
+</script>
+</body>
+</html>

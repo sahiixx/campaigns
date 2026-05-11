@@ -1,0 +1,125 @@
+{
+  "campaign": "micro-saas",
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "assignments": [
+    {
+      "email": "AGY-ATL-001",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    },
+    {
+      "email": "AGY-ATL-002",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-ATL-003",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-ATL-006",
+      "variant": "B",
+      "subject": "This agency cut 12 hours/week with one tool"
+    },
+    {
+      "email": "AGY-ATL-007",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    },
+    {
+      "email": "AGY-AUS-001",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-AUS-003",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    },
+    {
+      "email": "AGY-AUS-005",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-AUS-009",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    },
+    {
+      "email": "AGY-AUS-010",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-DEN-002",
+      "variant": "B",
+      "subject": "This agency cut 12 hours/week with one tool"
+    },
+    {
+      "email": "AGY-DEN-003",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-DEN-006",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-DEN-008",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    },
+    {
+      "email": "AGY-DEN-009",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-NAS-001",
+      "variant": "B",
+      "subject": "This agency cut 12 hours/week with one tool"
+    },
+    {
+      "email": "AGY-NAS-004",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-NAS-005",
+      "variant": "B",
+      "subject": "This agency cut 12 hours/week with one tool"
+    },
+    {
+      "email": "AGY-NAS-006",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    },
+    {
+      "email": "AGY-NAS-008",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-POR-004",
+      "variant": "B",
+      "subject": "This agency cut 12 hours/week with one tool"
+    },
+    {
+      "email": "AGY-POR-006",
+      "variant": "C",
+      "subject": "Auto-respond to Google reviews in 3 seconds"
+    },
+    {
+      "email": "AGY-POR-009",
+      "variant": "A",
+      "subject": "there \u2014 still writing review replies by hand?"
+    }
+  ]
+}

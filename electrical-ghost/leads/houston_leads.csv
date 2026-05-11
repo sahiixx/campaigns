@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ELE-HOU-001,BrightWire Houston,Joe,(555) 154-5195,241 Houston St,4.7,164,0,False,True,True,Houston,electrical
+ELE-HOU-002,LiveWire Houston,Joe,(555) 378-9389,6428 Houston St,3.6,72,0,False,True,True,Houston,electrical
+ELE-HOU-003,PowerPro Houston,Andy,(555) 647-1083,6404 Houston St,4.9,134,1,False,True,False,Houston,electrical
+ELE-HOU-004,PowerPro Houston,Greg,(555) 828-9670,6989 Houston St,4.6,177,3,True,False,False,Houston,electrical
+ELE-HOU-005,CircuitMax Houston,Kevin,(555) 688-6178,4321 Houston St,4.3,44,3,True,False,False,Houston,electrical
+ELE-HOU-006,AmpFlow Houston,Scott,(555) 554-9768,6252 Houston St,3.6,104,1,False,True,False,Houston,electrical
+ELE-HOU-007,VoltTech Houston,Brian,(555) 370-9590,1730 Houston St,3.4,132,1,False,True,False,Houston,electrical
+ELE-HOU-008,BrightWire Houston,Mark,(555) 577-1739,707 Houston St,3.9,74,3,True,False,False,Houston,electrical
+ELE-HOU-009,BrightWire Houston,Kevin,(555) 967-7188,1732 Houston St,3.6,0,2,True,False,False,Houston,electrical
+ELE-HOU-010,CircuitMax Houston,Andy,(555) 387-3222,4489 Houston St,4.9,117,2,True,False,False,Houston,electrical

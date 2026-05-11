@@ -1,0 +1,11 @@
+id,company_name,contact_first,contact_last,email,phone,address,website,gbp_url,hours,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,pain_score,status,email_sent_date,reply,notes
+HVAC-HOU-001,Mike Heating & Cooling,Mike,Smith,info@mikesmith.heatingandcooling.com,(602) 555-1000,"100 Main St, Houston, AZ",https://mikesmith.heatingandcooling.com,,8AM-5PM M-F,False,True,True,0,NEW,,,
+HVAC-HOU-002,John HVAC Services,John,Johnson,info@johnjohnson.hvacservices.com,(602) 556-1001,"150 1st Ave, Houston, AZ",https://johnjohnson.hvacservices.com,,7AM-6PM M-Sat,True,False,False,3,NEW,,,
+HVAC-HOU-003,Dave Air Conditioning,Dave,Williams,info@davewilliams.acrepair.com,(602) 557-1002,"200 Washington St, Houston, AZ",https://davewilliams.acrepair.com,,8AM-5PM M-F,True,False,False,3,NEW,,,
+HVAC-HOU-004,Chris Climate Control,Chris,Brown,info@chrisbrown.climatecontrol.com,(602) 558-1003,"250 Jefferson Blvd, Houston, AZ",https://chrisbrown.climatecontrol.com,,7AM-6PM M-Sat,False,False,False,2,NEW,,,
+HVAC-HOU-005,Ryan Comfort Solutions,Ryan,Jones,info@ryanjones.comfortsolutions.com,(602) 559-1004,"300 Oak St, Houston, AZ",https://ryanjones.comfortsolutions.com,,8AM-5PM M-F,True,True,False,2,NEW,,,
+HVAC-HOU-006,Tom Heating & Cooling,Tom,Garcia,info@tomgarcia.heatingandcooling.com,(602) 560-1005,"350 Pine Ave, Houston, AZ",https://tomgarcia.heatingandcooling.com,,7AM-6PM M-Sat,True,False,True,2,NEW,,,
+HVAC-HOU-007,Alex HVAC Services,Alex,Miller,info@alexmiller.hvacservices.com,(602) 561-1006,"400 Cedar Rd, Houston, AZ",https://alexmiller.hvacservices.com,,8AM-5PM M-F,False,False,False,2,NEW,,,
+HVAC-HOU-008,Sam Air Conditioning,Sam,Davis,info@samdavis.acrepair.com,(602) 562-1007,"450 Maple Dr, Houston, AZ",https://samdavis.acrepair.com,,7AM-6PM M-Sat,True,False,False,3,NEW,,,
+HVAC-HOU-009,Jose Climate Control,Jose,Rodriguez,info@joserodriguez.climatecontrol.com,(602) 563-1008,"500 Main St, Houston, AZ",https://joserodriguez.climatecontrol.com,,8AM-5PM M-F,True,True,False,2,NEW,,,
+HVAC-HOU-010,Carlos Comfort Solutions,Carlos,Martinez,info@carlosmartinez.comfortsolutions.com,(602) 564-1009,"550 1st Ave, Houston, AZ",https://carlosmartinez.comfortsolutions.com,,7AM-6PM M-Sat,False,False,False,2,NEW,,,

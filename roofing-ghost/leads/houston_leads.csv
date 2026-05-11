@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+ROO-HOU-001,Apex Roofing Houston,Paul,(555) 962-6976,2098 Houston St,3.8,25,1,False,True,False,Houston,roofing
+ROO-HOU-002,TopShield Houston,Nick,(555) 101-8811,141 Houston St,3.2,83,1,False,True,False,Houston,roofing
+ROO-HOU-003,SkyGuard Houston,Nick,(555) 467-9136,9511 Houston St,4.5,118,1,False,True,False,Houston,roofing
+ROO-HOU-004,CoverAll Houston,Paul,(555) 297-5055,5822 Houston St,4.0,92,3,True,False,False,Houston,roofing
+ROO-HOU-005,SkyGuard Houston,Sam,(555) 201-6899,6016 Houston St,4.5,92,2,True,False,False,Houston,roofing
+ROO-HOU-006,SkyGuard Houston,Paul,(555) 452-6390,9180 Houston St,3.6,42,1,False,True,False,Houston,roofing
+ROO-HOU-007,TopShield Houston,Nick,(555) 933-6690,6245 Houston St,3.6,57,2,True,False,False,Houston,roofing
+ROO-HOU-008,Apex Roofing Houston,Matt,(555) 302-9690,9500 Houston St,3.7,19,2,True,False,False,Houston,roofing
+ROO-HOU-009,StormProof Houston,Nick,(555) 910-8991,2920 Houston St,4.3,73,3,True,False,False,Houston,roofing
+ROO-HOU-010,StormProof Houston,Eric,(555) 856-1296,1373 Houston St,4.9,38,2,True,False,False,Houston,roofing

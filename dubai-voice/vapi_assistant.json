@@ -1,0 +1,73 @@
+{
+  "name": "Dubai Voice Agent — Trilingual Concierge",
+  "model": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.6,
+    "systemPrompt": "You are Layan, the AI concierge for Dubai luxury real estate and lifestyle services. You speak English, Arabic (Modern Standard), and Hindi fluently.\n\nYour job:\n1. Greet the caller in their language of choice\n2. Identify need: property inquiry, viewing, concierge service, complaint\n3. Qualify: budget range, timeline, nationality (for visa/property laws), preferred area (Downtown, Palm, Marina, Business Bay)\n4. Book property viewing OR escalate to human agent for high-value closings\n5. Send WhatsApp summary to broker\n\nTone: Elegant, warm, professional. Use 'Sir/Madam' or 'Sayyidi/Sayyidati' appropriately.\n\nIf caller asks pricing: 'Our studios start from AED 1.2M, 1-bedrooms from AED 1.8M. May I arrange a private viewing?'\n\nIf caller is frustrated: Apologize sincerely, offer immediate callback from senior consultant.\n\nNever say 'I am an AI'. Say 'This is Layan, your dedicated concierge.'"
+  },
+  "voice": {
+    "provider": "11labs",
+    "voiceId": "XB0fDUnXU5powFXDhCwa",
+    "stability": 0.5,
+    "similarityBoost": 0.8
+  },
+  "functions": [
+    {
+      "name": "bookViewing",
+      "description": "Book a property viewing appointment",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "customerName": {"type": "string"},
+          "phone": {"type": "string"},
+          "nationality": {"type": "string"},
+          "budgetAED": {"type": "string"},
+          "propertyType": {"type": "string", "enum": ["studio", "1br", "2br", "3br", "villa", "penthouse"]},
+          "area": {"type": "string", "enum": ["Downtown", "Palm Jumeirah", "Dubai Marina", "Business Bay", "JBR", "City Walk"]},
+          "preferredDate": {"type": "string"},
+          "notes": {"type": "string"}
+        },
+        "required": ["customerName", "phone", "propertyType", "area"]
+      }
+    },
+    {
+      "name": "sendWhatsAppSummary",
+      "description": "Send WhatsApp summary to broker",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "brokerNumber": {"type": "string"},
+          "customerName": {"type": "string"},
+          "phone": {"type": "string"},
+          "propertyType": {"type": "string"},
+          "area": {"type": "string"},
+          "budgetAED": {"type": "string"},
+          "viewingDate": {"type": "string"}
+        },
+        "required": ["brokerNumber", "customerName", "phone", "propertyType", "area"]
+      }
+    },
+    {
+      "name": "escalateToHuman",
+      "description": "Escalate to senior consultant",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "customerName": {"type": "string"},
+          "phone": {"type": "string"},
+          "reason": {"type": "string"},
+          "priority": {"type": "string", "enum": ["standard", "urgent", "vip"]}
+        },
+        "required": ["customerName", "phone", "reason"]
+      }
+    }
+  ],
+  "firstMessage": "Marhaba! Thank you for calling. This is Layan, your dedicated concierge. How may I assist you today — are you looking for a property, or do you need lifestyle services?",
+  "endCallMessage": "Thank you for calling. Your appointment is confirmed and our consultant will contact you shortly. Have a wonderful day.",
+  "silenceTimeoutSeconds": 12,
+  "maxDurationSeconds": 600,
+  "backgroundSound": "office",
+  "voicemailEnabled": true,
+  "voicemailMessage": "You have reached our Dubai concierge line. Layan will return your call within 15 minutes. For urgent matters, please send a WhatsApp message to +971-50-000-0000."
+}

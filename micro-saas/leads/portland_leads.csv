@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,pain_score,manages_gbp_count,has_ai_response_tool,city,industry
+AGY-POR-001,Synup Portland,Rachel,(555) 615-5026,1,2,False,Portland,digital_marketing_agency
+AGY-POR-002,Grade.us Portland,Rachel,(555) 414-9637,1,7,False,Portland,digital_marketing_agency
+AGY-POR-003,SOCi Portland,Laura,(555) 681-1390,0,9,True,Portland,digital_marketing_agency
+AGY-POR-004,BrightLocal Portland,Laura,(555) 131-9767,2,44,False,Portland,digital_marketing_agency
+AGY-POR-005,SOCi Portland,Sarah,(555) 296-8543,0,1,True,Portland,digital_marketing_agency
+AGY-POR-006,Grade.us Portland,Rachel,(555) 896-8355,2,6,False,Portland,digital_marketing_agency
+AGY-POR-007,Synup Portland,Jessica,(555) 766-1477,0,10,True,Portland,digital_marketing_agency
+AGY-POR-008,Grade.us Portland,Jessica,(555) 399-9681,0,6,True,Portland,digital_marketing_agency
+AGY-POR-009,Vendasta Portland,Emily,(555) 523-4435,2,41,False,Portland,digital_marketing_agency
+AGY-POR-010,BrightLocal Portland,Emily,(555) 470-7347,1,7,False,Portland,digital_marketing_agency

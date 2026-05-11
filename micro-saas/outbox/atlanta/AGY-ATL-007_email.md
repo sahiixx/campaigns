@@ -1,0 +1,14 @@
+Subject: Nicole — are you still writing review replies by hand?
+
+Hi Nicole,
+
+I noticed Synup Atlanta manages 8 Google Business Profiles.
+
+Question: How many hours per week does your team spend writing review responses?
+
+ReviewReply auto-drafts personalized, brand-safe replies in 3 seconds. One agency client cut 12 hours/week to zero.
+
+Worth a 5-minute look? Reply DEMO and I'll send a Loom.
+
+Sahil
+Founder, ReviewReply

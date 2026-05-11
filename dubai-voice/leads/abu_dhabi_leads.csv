@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,pain_score,has_24_7_call_center,has_multilingual_support,has_whatsapp_integration,city,industry
+DUB-ABU-001,BurjEstates Abu Dhabi,Zayed,+971-50-9580711,965 Abu Dhabi Street,0,True,True,True,Abu Dhabi,real_estate
+DUB-ABU-002,LuxEstate Abu Dhabi,Khalid,+971-50-4264122,595 Abu Dhabi Street,0,True,True,True,Abu Dhabi,real_estate
+DUB-ABU-003,LuxEstate Abu Dhabi,Samir,+971-50-4539258,675 Abu Dhabi Street,1,False,True,False,Abu Dhabi,real_estate
+DUB-ABU-004,PrimeProperties Abu Dhabi,Hassan,+971-50-8472319,272 Abu Dhabi Street,1,False,True,False,Abu Dhabi,real_estate
+DUB-ABU-005,DubaiHomes Abu Dhabi,Tariq,+971-50-1672295,755 Abu Dhabi Street,1,False,True,False,Abu Dhabi,real_estate
+DUB-ABU-006,MarinaViews Abu Dhabi,Khalid,+971-50-9440591,766 Abu Dhabi Street,1,False,True,False,Abu Dhabi,real_estate
+DUB-ABU-007,MarinaViews Abu Dhabi,Omar,+971-50-6865568,330 Abu Dhabi Street,2,False,False,False,Abu Dhabi,real_estate
+DUB-ABU-008,DubaiHomes Abu Dhabi,Omar,+971-50-6584155,324 Abu Dhabi Street,3,False,False,False,Abu Dhabi,real_estate
+DUB-ABU-009,PrimeProperties Abu Dhabi,Faisal,+971-50-6160401,306 Abu Dhabi Street,0,True,True,True,Abu Dhabi,real_estate
+DUB-ABU-010,EliteLiving Abu Dhabi,Khalid,+971-50-8635728,410 Abu Dhabi Street,3,False,False,False,Abu Dhabi,real_estate

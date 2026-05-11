@@ -1,0 +1,160 @@
+{
+  "campaign": "plumbing-ghost",
+  "variants": [
+    "A",
+    "B",
+    "C"
+  ],
+  "assignments": [
+    {
+      "email": "HVAC-DAL-002",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-003",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DAL-004",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DAL-005",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-006",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-007",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-008",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-009",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-010",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-011",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "PLU-DAL-004",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "PLU-DAL-005",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "PLU-DAL-006",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "PLU-DAL-007",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "PLU-DAL-008",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "PLU-DAL-010",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-002",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-003",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-004",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-005",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DAL-006",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-007",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-008",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DAL-009",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DAL-010",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-002",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DUB-003",
+      "variant": "B",
+      "subject": "Your after-hours plumbing leads are going to voicemail"
+    },
+    {
+      "email": "HVAC-DUB-004",
+      "variant": "A",
+      "subject": "Quick question about missed calls, there"
+    },
+    {
+      "email": "HVAC-DUB-005",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    },
+    {
+      "email": "HVAC-DUB-006",
+      "variant": "C",
+      "subject": "there \u2014 are you losing emergency calls?"
+    }
+  ]
+}

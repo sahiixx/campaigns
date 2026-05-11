@@ -1,0 +1,11 @@
+id,company_name,contact_first,phone,address,rating,review_count,pain_score,has_voicemail_after_hours,has_recent_gbp_posts,has_qa_section,city,industry
+LOC-PHO-001,SafeGuard Phoenix,Vic,(555) 220-1585,5024 Phoenix St,3.3,191,1,False,True,False,Phoenix,locksmith
+LOC-PHO-002,KeyMaster Phoenix,Max,(555) 476-4952,386 Phoenix St,3.4,53,0,False,True,True,Phoenix,locksmith
+LOC-PHO-003,SafeGuard Phoenix,Tony,(555) 745-6920,8991 Phoenix St,4.6,39,0,False,True,True,Phoenix,locksmith
+LOC-PHO-004,LockPro Phoenix,Lou,(555) 494-7945,6116 Phoenix St,4.6,10,3,True,False,False,Phoenix,locksmith
+LOC-PHO-005,KeyMaster Phoenix,Lou,(555) 867-6794,6626 Phoenix St,5.0,170,2,True,False,False,Phoenix,locksmith
+LOC-PHO-006,PrimeLock Phoenix,Leo,(555) 775-4048,7315 Phoenix St,3.2,50,2,True,False,False,Phoenix,locksmith
+LOC-PHO-007,KeyMaster Phoenix,Max,(555) 350-3622,5987 Phoenix St,4.5,73,3,True,False,False,Phoenix,locksmith
+LOC-PHO-008,SwiftKey Phoenix,Ray,(555) 916-1527,7140 Phoenix St,4.1,195,2,True,False,False,Phoenix,locksmith
+LOC-PHO-009,PrimeLock Phoenix,Ray,(555) 192-1678,4403 Phoenix St,4.7,12,2,True,False,False,Phoenix,locksmith
+LOC-PHO-010,KeyMaster Phoenix,Tony,(555) 787-6907,845 Phoenix St,4.8,28,2,True,False,False,Phoenix,locksmith
